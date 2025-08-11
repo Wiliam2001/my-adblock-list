@@ -2,61 +2,37 @@ name: Update Filters
 
 on:
   schedule:
-    - cron: "0 0 * * 0"  # Runs every Sunday at midnight UTC
-  workflow_dispatch:      # Allow manual trigger
+    - cron: "0 0 * * 0" # every Sunday at midnight UTC
+  workflow_dispatch: # allow manual run
 
 jobs:
-  build:
+  update:
     runs-on: ubuntu-latest
-
     steps:
-    - name: Checkout repository
-      uses: actions/checkout@v3
+      - name: Checkout repo
+        uses: actions/checkout@v4
 
-    # Download EasyList
-    - name: Download EasyList
-      run: curl -s https://easylist.to/easylist/easylist.txt -o easylist.txt
+      - name: Download EasyList & EasyPrivacy
+        run: |
+          curl -s https://easylist.to/easylist/easylist.txt -o easylist.txt
+          curl -s https://easylist.to/easylist/easyprivacy.txt -o easyprivacy.txt
 
-    # Download EasyPrivacy
-    - name: Download EasyPrivacy
-      run: curl -s https://easylist.to/easylist/easyprivacy.txt -o easyprivacy.txt
+      - name: Download uBlock filters
+        run: |
+          curl -s https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/filters.txt -o ublock.txt
 
-    # Download Fanboy Annoyance
-    - name: Download Fanboy Annoyance
-      run: curl -s https://easylist.to/easylist/fanboy-annoyance.txt -o fanboy.txt
+      - name: Merge with custom rules
+        run: |
+          echo "! Last updated: $(date -u)" > filters.txt
+          cat easylist.txt easyprivacy.txt ublock.txt custom.txt >> filters.txt
+          rm easylist.txt easyprivacy.txt ublock.txt
+          echo "✅ Merged $(wc -l < filters.txt) rules."
 
-    # Download uBlock Origin filters
-    - name: Download uBlock Origin Base Filters
-      run: curl -s https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/filters.txt -o ublock-base.txt
+      - name: Commit & Push changes
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add filters.txt
+          git commit -m "Update filters [skip ci]" || echo "No changes to commit"
+          git push
 
-    - name: Download uBlock Privacy Filters
-      run: curl -s https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/privacy.txt -o ublock-privacy.txt
-
-    - name: Download uBlock Annoyances
-      run: curl -s https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/annoyances.txt -o ublock-annoyances.txt
-
-    # Merge everything into filters.txt
-    - name: Merge Lists
-      run: |
-        echo "! Last updated: $(date -u)" > filters.txt
-        cat easylist.txt >> filters.txt
-        echo "" >> filters.txt
-        cat easyprivacy.txt >> filters.txt
-        echo "" >> filters.txt
-        cat fanboy.txt >> filters.txt
-        echo "" >> filters.txt
-        cat ublock-base.txt >> filters.txt
-        echo "" >> filters.txt
-        cat ublock-privacy.txt >> filters.txt
-        echo "" >> filters.txt
-        cat ublock-annoyances.txt >> filters.txt
-        echo "" >> filters.txt
-        cat custom.txt >> filters.txt
-
-    - name: Commit and push changes
-      run: |
-        git config --global user.name "github-actions[bot]"
-        git config --global user.email "github-actions[bot]@users.noreply.github.com"
-        git add filters.txt
-        git commit -m "Auto-update filters [skip ci]" || echo "No changes to commit"
-        git push
