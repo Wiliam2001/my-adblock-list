@@ -1,0 +1,31 @@
+name: Update Adblock Lists
+
+on:
+  schedule:
+    - cron: "0 0 * * 0" # Every Sunday at midnight UTC
+  workflow_dispatch: # Allow manual run
+
+jobs:
+  update-filters:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v3
+
+      - name: Fetch EasyList
+        run: curl -o easylist.txt https://easylist.to/easylist/easylist.txt
+
+      - name: Fetch EasyPrivacy
+        run: curl -o easyprivacy.txt https://easylist.to/easylist/easyprivacy.txt
+
+      - name: Merge custom rules with EasyList/EasyPrivacy
+        run: |
+          cat easylist.txt easyprivacy.txt custom.txt > filters.txt
+
+      - name: Commit & Push changes
+        run: |
+          git config --global user.name "github-actions"
+          git config --global user.email "github-actions@users.noreply.github.com"
+          git add filters.txt
+          git commit -m "Update filter list [skip ci]" || echo "No changes"
+          git push
