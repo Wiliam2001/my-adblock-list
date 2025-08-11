@@ -1,35 +1,45 @@
-name: Update AdBlock Filters
+name: Update Filters
 
 on:
   schedule:
-    - cron: "0 0 * * 0" # Weekly
-  workflow_dispatch:
+    - cron: "0 0 * * 0" # Runs every Sunday at midnight
+  workflow_dispatch: # Allow manual run
 
 jobs:
-  build:
+  update-filters:
     runs-on: ubuntu-latest
+
     steps:
       - name: Checkout repository
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4
+        with:
+          persist-credentials: false # We'll manually set token for push
 
-      - name: Fetch & Merge Lists
+      - name: Install tools
+        run: sudo apt-get install -y curl
+
+      - name: Download EasyList & EasyPrivacy
         run: |
-          mkdir -p tmp
-          curl -s https://easylist.to/easylist/easylist.txt -o tmp/easylist.txt
-          curl -s https://easylist.to/easylist/easyprivacy.txt -o tmp/easyprivacy.txt
-          curl -s https://raw.githubusercontent.com/gorhill/uBlock/master/assets/ublock/filters.txt -o tmp/ublock-filters.txt
-          curl -s https://raw.githubusercontent.com/Wiliam2001/my-adblock-list/main/custom.txt -o tmp/custom.txt
+          curl -s https://easylist.to/easylist/easylist.txt -o easylist.txt
+          curl -s https://easylist.to/easylist/easyprivacy.txt -o easyprivacy.txt
 
-          cat tmp/easylist.txt tmp/easyprivacy.txt tmp/ublock-filters.txt tmp/custom.txt \
-            | grep -v "^\!" \
-            | grep -v "^\[Adblock" \
-            | sort -u \
-            > filters.txt
+      - name: Merge with custom rules
+        run: |
+          echo "! Custom rules" > filters.txt
+          if [ -f custom.txt ]; then cat custom.txt >> filters.txt; fi
+          echo "" >> filters.txt
+          echo "! EasyList" >> filters.txt
+          cat easylist.txt >> filters.txt
+          echo "" >> filters.txt
+          echo "! EasyPrivacy" >> filters.txt
+          cat easyprivacy.txt >> filters.txt
 
-      - name: Commit & Push
+      - name: Commit & Push changes
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
           git add filters.txt
           git commit -m "Update filters [skip ci]" || echo "No changes to commit"
-          git push
+          git push https://x-access-token:${GITHUB_TOKEN}@github.com/Wiliam2001/my-adblock-list.git
