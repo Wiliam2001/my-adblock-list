@@ -1,37 +1,32 @@
-name: Update Filters
+name: Update AdBlock Filters
 
 on:
   schedule:
-    - cron: "0 0 * * 0" # Every Sunday at midnight UTC
-  workflow_dispatch: # Allow manual run
-
-permissions:
-  contents: write  # ✅ allow commit/push
+    - cron: "0 0 * * 0" # Weekly
+  workflow_dispatch:
 
 jobs:
-  update:
+  build:
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout repo
-        uses: actions/checkout@v4
+      - name: Checkout repository
+        uses: actions/checkout@v3
 
-      - name: Download EasyList & EasyPrivacy
+      - name: Fetch & Merge Lists
         run: |
-          curl -s https://easylist.to/easylist/easylist.txt -o easylist.txt
-          curl -s https://easylist.to/easylist/easyprivacy.txt -o easyprivacy.txt
+          mkdir -p tmp
+          curl -s https://easylist.to/easylist/easylist.txt -o tmp/easylist.txt
+          curl -s https://easylist.to/easylist/easyprivacy.txt -o tmp/easyprivacy.txt
+          curl -s https://raw.githubusercontent.com/gorhill/uBlock/master/assets/ublock/filters.txt -o tmp/ublock-filters.txt
+          curl -s https://raw.githubusercontent.com/Wiliam2001/my-adblock-list/main/custom.txt -o tmp/custom.txt
 
-      - name: Download uBlock filters
-        run: |
-          curl -s https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/filters.txt -o ublock.txt
+          cat tmp/easylist.txt tmp/easyprivacy.txt tmp/ublock-filters.txt tmp/custom.txt \
+            | grep -v "^\!" \
+            | grep -v "^\[Adblock" \
+            | sort -u \
+            > filters.txt
 
-      - name: Merge with custom rules
-        run: |
-          echo "! Last updated: $(date -u)" > filters.txt
-          cat easylist.txt easyprivacy.txt ublock.txt custom.txt >> filters.txt
-          rm easylist.txt easyprivacy.txt ublock.txt
-          echo "✅ Merged $(wc -l < filters.txt) rules."
-
-      - name: Commit & Push changes
+      - name: Commit & Push
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
