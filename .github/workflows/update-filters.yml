@@ -1,45 +1,49 @@
-name: Update Filters
+name: Update Adblock Filters
 
 on:
   schedule:
-    - cron: "0 0 * * 0" # Runs every Sunday at midnight
-  workflow_dispatch: # Allow manual run
+    - cron: "0 0 * * 0" # Every Sunday at midnight UTC
+  workflow_dispatch: # Allow manual trigger
+
+permissions:
+  contents: write # IMPORTANT: needs write access to push changes
+
+env:
+  GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
 jobs:
-  update-filters:
+  update:
     runs-on: ubuntu-latest
-
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
         with:
-          persist-credentials: false # We'll manually set token for push
+          token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Install tools
         run: sudo apt-get install -y curl
 
-      - name: Download EasyList & EasyPrivacy
+      - name: Download EasyList + EasyPrivacy
         run: |
           curl -s https://easylist.to/easylist/easylist.txt -o easylist.txt
           curl -s https://easylist.to/easylist/easyprivacy.txt -o easyprivacy.txt
+          # Optional: uBlock Origin extra filters
+          curl -s https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/filters.txt -o ublock-filters.txt
 
-      - name: Merge with custom rules
+      - name: Merge custom rules with downloaded lists
         run: |
-          echo "! Custom rules" > filters.txt
-          if [ -f custom.txt ]; then cat custom.txt >> filters.txt; fi
-          echo "" >> filters.txt
-          echo "! EasyList" >> filters.txt
-          cat easylist.txt >> filters.txt
-          echo "" >> filters.txt
-          echo "! EasyPrivacy" >> filters.txt
-          cat easyprivacy.txt >> filters.txt
+          cat easylist.txt easyprivacy.txt ublock-filters.txt > merged.txt
+          # Append your custom rules if exists
+          if [ -f filters.txt ]; then
+            cat filters.txt >> merged.txt
+          fi
+          sort -u merged.txt > filters.txt
+          rm -f easylist.txt easyprivacy.txt ublock-filters.txt merged.txt
 
-      - name: Commit & Push changes
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      - name: Commit and push changes
         run: |
           git config --global user.name "github-actions[bot]"
-          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add filters.txt
           git commit -m "Update filters [skip ci]" || echo "No changes to commit"
-          git push https://x-access-token:${GITHUB_TOKEN}@github.com/Wiliam2001/my-adblock-list.git
+          git push https://x-access-token:${GITHUB_TOKEN}@github.com/Wiliam2001/my-adblock-list.git HEAD:main
