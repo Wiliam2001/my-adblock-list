@@ -2,8 +2,11 @@ name: Update Filters
 
 on:
   schedule:
-    - cron: "0 0 * * 0" # every Sunday at midnight UTC
-  workflow_dispatch: # allow manual run
+    - cron: "0 0 * * 0" # Every Sunday at midnight UTC
+  workflow_dispatch: # Allow manual run
+
+permissions:
+  contents: write  # ✅ allow commit/push
 
 jobs:
   update:
@@ -35,4 +38,3 @@ jobs:
           git add filters.txt
           git commit -m "Update filters [skip ci]" || echo "No changes to commit"
           git push
-
