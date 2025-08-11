@@ -1,0 +1,62 @@
+name: Update Filters
+
+on:
+  schedule:
+    - cron: "0 0 * * 0"  # Runs every Sunday at midnight UTC
+  workflow_dispatch:      # Allow manual trigger
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v3
+
+    # Download EasyList
+    - name: Download EasyList
+      run: curl -s https://easylist.to/easylist/easylist.txt -o easylist.txt
+
+    # Download EasyPrivacy
+    - name: Download EasyPrivacy
+      run: curl -s https://easylist.to/easylist/easyprivacy.txt -o easyprivacy.txt
+
+    # Download Fanboy Annoyance
+    - name: Download Fanboy Annoyance
+      run: curl -s https://easylist.to/easylist/fanboy-annoyance.txt -o fanboy.txt
+
+    # Download uBlock Origin filters
+    - name: Download uBlock Origin Base Filters
+      run: curl -s https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/filters.txt -o ublock-base.txt
+
+    - name: Download uBlock Privacy Filters
+      run: curl -s https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/privacy.txt -o ublock-privacy.txt
+
+    - name: Download uBlock Annoyances
+      run: curl -s https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/annoyances.txt -o ublock-annoyances.txt
+
+    # Merge everything into filters.txt
+    - name: Merge Lists
+      run: |
+        echo "! Last updated: $(date -u)" > filters.txt
+        cat easylist.txt >> filters.txt
+        echo "" >> filters.txt
+        cat easyprivacy.txt >> filters.txt
+        echo "" >> filters.txt
+        cat fanboy.txt >> filters.txt
+        echo "" >> filters.txt
+        cat ublock-base.txt >> filters.txt
+        echo "" >> filters.txt
+        cat ublock-privacy.txt >> filters.txt
+        echo "" >> filters.txt
+        cat ublock-annoyances.txt >> filters.txt
+        echo "" >> filters.txt
+        cat custom.txt >> filters.txt
+
+    - name: Commit and push changes
+      run: |
+        git config --global user.name "github-actions[bot]"
+        git config --global user.email "github-actions[bot]@users.noreply.github.com"
+        git add filters.txt
+        git commit -m "Auto-update filters [skip ci]" || echo "No changes to commit"
+        git push
