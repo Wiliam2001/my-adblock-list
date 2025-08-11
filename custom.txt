@@ -1,0 +1,4 @@
+! Custom Bing/Bidnest filters
+||bing.com/api/v1/mediation/tracking^
+bing.com##.b_ad
+bidnest.cc##*
