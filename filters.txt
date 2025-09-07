@@ -357,6 +357,7 @@
 ! Japanese
 ! Korean
 ! Last modified: %timestamp%
+! Last modified: 01 Sep 2025 12:09 UTC
 ! Last modified: 11 Aug 2025 19:29 UTC
 ! Last modified: 17 Aug 2025 01:35 UTC
 ! Last modified: 24 Aug 2025 01:30 UTC
@@ -454,6 +455,7 @@
 ! Version: 202508240130
 ! Version: 202508310139
 ! Version: 202508310142
+! Version: 202509011209
 ! Videos disabled by anti-blocker:
 ! Vietnamese
 ! Vinted
@@ -17756,6 +17758,7 @@ $popup,third-party,domain=hentai2read.com|porn-tube-club.com
 $popup,third-party,domain=kinos.to|kinox.am|kinox.click|kinox.cloud|kinox.club|kinox.digital|kinox.direct|kinox.express|kinox.fyi|kinox.gratis|kinox.io|kinox.lat|kinox.lol|kinox.me|kinox.mobi|kinox.pub|kinox.sh|kinox.to|kinox.tube|kinox.tv|kinox.wtf|kinoz.to
 $script,domain=zdnet.fr,3p
 $script,third-party,domain=imgbox.com
+$script,third-party,domain=ouo.io|ouo.press
 $script,third-party,domain=rule34hentai.net
 $script,third-party,xmlhttprequest,domain=abcvideo.cc
 $script,third-party,xmlhttprequest,domain=ouo.io|ouo.press
@@ -18635,6 +18638,7 @@ $xhr,redirect-rule=noopjs,domain=player.pl
 /EventLoggerV3.min.js
 /Events/Impression?
 /FacebookEvent/PageView$xmlhttprequest
+/Fingerprintjs2/fpt2.js
 /GTag/general_tracker.js
 /GlanceCobrowseLoader_
 /GlancePresenceVisitor_
@@ -22450,6 +22454,7 @@ $xhr,redirect-rule=noopjs,domain=player.pl
 10minutemail.net,eel.surf7.net.my###right
 10movs.com##.top_banner
 10play.com.au,geo.tv,jozifm.co.za,runt-of-the-web.com,thewest.com.au,topgear.com.ph##.mrec
+11alive.com,12news.com,12newsnow.com,13newsnow.com,13wmaz.com,5newsonline.com,9news.com,abc10.com,abovethelaw.com,adelaidenow.com.au,adtmag.com,aero-news.net,airportia.com,aiscoop.com,americanprofile.com,ans.org,appleinsider.com,arazu.io,arstechnica.com,as.com,asianwiki.com,askmen.com,associationsnow.com,attheraces.com,autoevolution.com,autoguide.com,automation.com,autotrader.com.au,bab.la,barchart.com,bdnews24.com,beinsports.com,bgr.in,biometricupdate.com,boats.com,bobvila.com,booksourcemagazine.com,bostonglobe.com,bradleybraves.com,briskoda.net,btimesonline.com,businessdailyafrica.com,businessinsider.com,businesstech.co.za,businessworld.in,c21media.net,carcomplaints.com,cbc.ca,cbs19.tv,celebdigs.com,celebified.com,ch-aviation.com,chargedevs.com,chemistryworld.com,cknxnewstoday.ca,cnn.com,cnnphilippines.com,colourlovers.com,computerhope.com,couriermail.com.au,cracked.com,createtv.com,crn.com,crossmap.com,crosswalk.com,cyberscoop.com,dailycaller.com,dailylobo.com,dailyparent.com,dailytarheel.com,dcist.com,dealnews.com,deccanherald.com,defenseone.com,defensescoop.com,discordbotlist.com,downdetector.co.nz,downdetector.co.uk,downdetector.co.za,downdetector.com,downdetector.in,downdetector.sg,dpreview.com,dynamicwallpaper.club,earlygame.com,edmontonjournal.com,edscoop.com,elpais.com,emoji.gg,eurosport.com,excellence-mag.com,familydoctor.org,fanpop.com,fedscoop.com,femalefirst.co.uk,filehippo.com,filerox.com,finance.yahoo.com,firstcoastnews.com,flightglobal.com,flowermanga.net,fox6now.com,foxbusiness.com,foxnews.com,funeraltimes.com,gamepressure.com,gamesadshopper.com,gayvegas.com,geelongadvertiser.com.au,gmanetwork.com,go.com,godtube.com,golfweather.com,greasyfork.org,gtplanet.net,heraldnet.com,heraldsun.com.au,hodinkee.com,homebeautiful.com.au,hoodline.com,huckmag.com,indiatvnews.com,infobyip.com,inhabitat.com,interfax.com.ua,joc.com,jscompress.com,kagstv.com,kare11.com,kcentv.com,kens5.com,kgw.com,khou.com,kiiitv.com,king5.com,koreabang.com,kpopstarz.com,krem.com,ksdk.com,ktvb.com,kvue.com,lagom.nl,leaderpost.com,leaf.tv,letsgodigital.org,lifezette.com,liga.net,lonestarlive.com,looktothestars.org,m.famousfix.com,mangarockteam.com,marketwatch.com,maxpreps.com,mcpmag.com,minecraftmods.com,mlb.com,modernretail.co,monkeytype.com,motherjones.com,mprnews.org,mybroadband.co.za,myfox8.com,myfoxzone.com,mygaming.co.za,myrecipes.com,namibtimes.net,nejm.org,neowin.net,newbeauty.com,news.com.au,news.sky.com,newscentermaine.com,newsday.com,newstatesman.com,nymag.com,nytimes.com,nzherald.co.nz,patch.com,patheos.com,pcgamesn.com,petfinder.com,pharmaceutical-journal.com,picmix.com,planelogger.com,playsnake.org,playtictactoe.org,pokertube.com,politico.com,politico.eu,powernationtv.com,pressgazette.co.uk,proremodeler.com,quackit.com,ranker.com,ratemds.com,ratemyprofessors.com,redmondmag.com,refinery29.com,revolver.news,roadsideamerica.com,salisburypost.com,scholarlykitchen.sspnet.org,scworld.com,seattletimes.com,segmentnext.com,silive.com,simpledesktops.com,slickdeals.net,slippedisc.com,sltrib.com,smartcompany.com.au,softpedia.com,soranews24.com,spot.im,spryliving.com,statenews.com,statescoop.com,statscrop.com,straight.com,streetinsider.com,stv.tv,sundayworld.com,the-decoder.com,thecut.com,thedigitalfix.com,thedp.com,theeastafrican.co.ke,thefader.com,thefirearmblog.com,thegrocer.co.uk,themercury.com.au,theringreport.com,thestarphoenix.com,thv11.com,time.com,timeshighereducation.com,tntsports.co.uk,today.com,toonado.com,townhall.com,tracker.gg,tribalfootball.com,triblive.com,tripadvisor.*,tweaktown.com,ultimatespecs.com,ultiworld.com,uptodown.com,usmagazine.com,usnews.com,vancouversun.com,vogue.in,vulture.com,wamu.org,washingtonexaminer.com,washingtontimes.com,watzatsong.com,wbir.com,wcnc.com,wdhafm.com,weatheronline.co.uk,webestools.com,webmd.com,weeklytimesnow.com.au,wfaa.com,wfmynews2.com,wgntv.com,wgrz.com,whas11.com,windsorstar.com,winnipegfreepress.com,wkyc.com,wltx.com,wnep.com,worthplaying.com,wqad.com,wral.com,wrif.com,wtsp.com,wusa9.com,wwltv.com,wzzm13.com,x17online.com,xatakaon.com,yorkpress.co.uk##.ad
 11alive.com,12news.com,12newsnow.com,13newsnow.com,13wmaz.com,5newsonline.com,9news.com,abc10.com,abovethelaw.com,adelaidenow.com.au,adtmag.com,aero-news.net,airportia.com,aiscoop.com,americanprofile.com,ans.org,appleinsider.com,arazu.io,arstechnica.com,as.com,asianwiki.com,askmen.com,associationsnow.com,attheraces.com,autoevolution.com,autoguide.com,automation.com,autotrader.com.au,bab.la,barchart.com,bdnews24.com,beinsports.com,bgr.in,biometricupdate.com,boats.com,bobvila.com,booksourcemagazine.com,bostonglobe.com,bradleybraves.com,briskoda.net,btimesonline.com,businessdailyafrica.com,businessinsider.com,businesstech.co.za,businessworld.in,c21media.net,carcomplaints.com,cbc.ca,cbs19.tv,celebdigs.com,celebified.com,ch-aviation.com,chargedevs.com,chemistryworld.com,cknxnewstoday.ca,cnn.com,cnnphilippines.com,colourlovers.com,computerhope.com,couriermail.com.au,cracked.com,createtv.com,crn.com,crossmap.com,crosswalk.com,cyberscoop.com,dailycaller.com,dailylobo.com,dailyparent.com,dailytarheel.com,dcist.com,dealnews.com,deccanherald.com,defenseone.com,defensescoop.com,discordbotlist.com,downdetector.co.nz,downdetector.co.uk,downdetector.co.za,downdetector.com,downdetector.in,downdetector.sg,dpreview.com,dynamicwallpaper.club,earlygame.com,edmontonjournal.com,edscoop.com,elpais.com,emoji.gg,eurosport.com,excellence-mag.com,familydoctor.org,fanpop.com,fedscoop.com,femalefirst.co.uk,filehippo.com,filerox.com,finance.yahoo.com,firstcoastnews.com,flightglobal.com,flowermanga.net,fox6now.com,foxbusiness.com,foxnews.com,funeraltimes.com,gamepressure.com,gamesadshopper.com,gayvegas.com,geelongadvertiser.com.au,gmanetwork.com,go.com,godtube.com,golfweather.com,greasyfork.org,gtplanet.net,heraldnet.com,heraldsun.com.au,hodinkee.com,homebeautiful.com.au,hoodline.com,huckmag.com,indiatvnews.com,infobyip.com,inhabitat.com,interfax.com.ua,joc.com,jscompress.com,kagstv.com,kare11.com,kcentv.com,kens5.com,kgw.com,khou.com,kiiitv.com,king5.com,koreabang.com,kpopstarz.com,krem.com,ksdk.com,ktvb.com,kvue.com,lagom.nl,leaderpost.com,leaf.tv,letsgodigital.org,lifezette.com,liga.net,lonestarlive.com,looktothestars.org,m.famousfix.com,mangarockteam.com,marketwatch.com,maxpreps.com,mcpmag.com,minecraftmods.com,mlb.com,modernretail.co,monkeytype.com,motherjones.com,mprnews.org,mybroadband.co.za,myfox8.com,myfoxzone.com,mygaming.co.za,myrecipes.com,namibtimes.net,nejm.org,neowin.net,newbeauty.com,news.com.au,news.sky.com,newscentermaine.com,newsday.com,newstatesman.com,nymag.com,nytimes.com,nzherald.co.nz,patch.com,patheos.com,pcgamesn.com,petfinder.com,picmix.com,planelogger.com,playsnake.org,playtictactoe.org,pokertube.com,politico.com,politico.eu,powernationtv.com,pressgazette.co.uk,proremodeler.com,quackit.com,ranker.com,ratemds.com,ratemyprofessors.com,redmondmag.com,refinery29.com,revolver.news,roadsideamerica.com,salisburypost.com,scholarlykitchen.sspnet.org,scworld.com,seattletimes.com,segmentnext.com,silive.com,simpledesktops.com,slickdeals.net,slippedisc.com,sltrib.com,smartcompany.com.au,softpedia.com,soranews24.com,spot.im,spryliving.com,statenews.com,statescoop.com,statscrop.com,straight.com,streetinsider.com,stv.tv,sundayworld.com,the-decoder.com,thecut.com,thedigitalfix.com,thedp.com,theeastafrican.co.ke,thefader.com,thefirearmblog.com,thegrocer.co.uk,themercury.com.au,theringreport.com,thestarphoenix.com,thv11.com,time.com,timeshighereducation.com,tntsports.co.uk,today.com,toonado.com,townhall.com,tracker.gg,tribalfootball.com,triblive.com,tripadvisor.*,tweaktown.com,ultimatespecs.com,ultiworld.com,uptodown.com,usmagazine.com,usnews.com,vancouversun.com,vogue.in,vulture.com,wamu.org,washingtonexaminer.com,washingtontimes.com,watzatsong.com,wbir.com,wcnc.com,wdhafm.com,weatheronline.co.uk,webestools.com,webmd.com,weeklytimesnow.com.au,wfaa.com,wfmynews2.com,wgntv.com,wgrz.com,whas11.com,windsorstar.com,winnipegfreepress.com,wkyc.com,wltx.com,wnep.com,worthplaying.com,wqad.com,wral.com,wrif.com,wtsp.com,wusa9.com,wwltv.com,wzzm13.com,x17online.com,xatakaon.com,yorkpress.co.uk##.ad
 123anime.*##+js(acs, setTimeout, popi)
 123anime.*##+js(nowoif)
@@ -23510,6 +23515,7 @@ $xhr,redirect-rule=noopjs,domain=player.pl
 @@||dashboard.mgid.com^$popup
 @@||data.adxcel-ec2.com^$image,domain=laguardia.edu
 @@||data.tm-awx.com^$script,domain=birminghammail.co.uk|bristolpost.co.uk|dailyrecord.co.uk|hulldailymail.co.uk|liverpoolecho.co.uk|manchestereveningnews.co.uk|stokesentinel.co.uk
+@@||datadoghq-browser-agent.com^$script,domain=bbcgoodfood.com|cdn.spatialbuzz.com|dashboard.getdriven.app|espn.com|goindigo.in|hungryroot.com|usa.experian.com
 @@||datadoghq-browser-agent.com^$script,domain=bbcgoodfood.com|cdn.spatialbuzz.com|dashboard.getdriven.app|espn.com|hungryroot.com|usa.experian.com
 @@||datadoghq-browser-agent.com^$script,domain=bbcgoodfood.com|cdn.spatialbuzz.com|dashboard.getdriven.app|hungryroot.com|usa.experian.com
 @@||datadome.monster.com.first-party-js.datadome.co^$script,domain=monster.com
@@ -27157,6 +27163,7 @@ c19-worldnews.com##.wp-caption
 cadlinecommunity.co.uk#@#.sidebar_advert
 cafonline.com##.caf-o-sponsors-nav
 caixinglobal.com##.pc-ad-left01
+caixinglobal.com,chicagobusiness.com,chronicle.co.zw,clinicaltrialsarena.com,dailymaverick.co.za,dailytarheel.com,duckduckgo.com,duckduckgogg42xjoc72x3sjasowoarfbgcmvfimaftt6twagswzczad.onion,dunyanews.tv,fifplay.com,freebmd.org.uk,hbr.org,herald.co.zw,lawandcrime.com,libhunt.com,motherjones.com,naval-technology.com,reviewjournal.com,saashub.com,samedicalspecialists.co.za,sportsbusinessjournal.com,statnews.com,stocksnap.io,thedp.com,timeslive.co.za##.sponsored
 caixinglobal.com,chicagobusiness.com,chronicle.co.zw,dailymaverick.co.za,dailytarheel.com,duckduckgo.com,duckduckgogg42xjoc72x3sjasowoarfbgcmvfimaftt6twagswzczad.onion,dunyanews.tv,fifplay.com,freebmd.org.uk,hbr.org,herald.co.zw,lawandcrime.com,libhunt.com,motherjones.com,naval-technology.com,reviewjournal.com,saashub.com,samedicalspecialists.co.za,sportsbusinessjournal.com,statnews.com,stocksnap.io,thedp.com,timeslive.co.za##.sponsored
 calcalistech.com##.Ctech_general_banner
 calciomercato.com##.adv
@@ -27615,6 +27622,9 @@ clik.pw##+js(aopr, open)
 clik.pw##a[href^="https://href.li/"]
 clik.pw##body > div[style]:has(input[type="button"])
 clik.pw##div[style*="z-index:99999"] > div[style*="width:300px"]
+clinicaltrialsarena.com##.gdm-pi-recommended-reports
+clinicaltrialsarena.com##.gms-b2b-marketing
+clinicaltrialsarena.com,just-food.com,railway-technology.com,retail-insight-network.com,verdict.co.uk##.gdm-company-profile-unit
 clintonherald.com,ottumwacourier.com,thetimestribune.com###floorboard_block
 clipsexsub3x.net##.catfish-bottom
 clix4btc.com##+js(set, adblock, false)
@@ -28808,6 +28818,8 @@ drtuber.com,nuvid.com##.drt-sponsor-block
 drtuber.com,thisvid.com,vivatube.com,xxbrits.com##.spots
 drudgereport.com##.DR-AD-SPACE
 drudgereport.com##div[style^="height: 250px;"]
+drugdiscoverynews.com###hs-web-interactives-bottom-anchor
+drugdiscoverynews.com##.vert-unit
 drugs.com##.display-ad
 drugs.com##.topbanner-wrap
 drwealth.com##[width="640"]
@@ -29056,6 +29068,7 @@ emalm.com##a[href^="https://offer.alibaba.com/"]
 emalm.com,linkdecode.com,up-4ever.net##a[href^="https://s.click.aliexpress.com/"]
 emarketer.com##.ContentRightAd
 embed.listcorp.com##a[href^="https://j.moomoo.com/"]
+embed.wcostream.com##+js(remove-cookie, PHPSESSID)
 embed.wcostream.com#@#.ad-unit
 emergencyemail.org,out.com##.footer
 emojipedia.org##.h-\[282px\]
@@ -30019,6 +30032,7 @@ fuqer.com##.right > .text
 fuqer.com##.spot-thumbs > .right
 fuqer.com##.spot-thumbs > .right:style(height:1px !important)
 fuqer.com#@#.spot-thumbs > .right
+furaffinity.net###c-videoAd--outer
 fuse-box.info#@#.ads-row
 fuskator.com##+js(aopr, ea.add)
 fuskator.com##+js(noeval)
@@ -33640,6 +33654,7 @@ needsomefun.net###text-36
 needsomefun.net###text-42
 negozioxporn.com##.ntv1
 negumo.com##+js(set, fabActive, false)
+nejm.org##.nejm_jobs
 nejm.org#@#.adplaceholder
 nelomanga.net##.fly-ads-chapter-page
 nensaysubs.net###outerdiv
@@ -35880,6 +35895,7 @@ savesubs.com##+js(nowoif)
 savevideo.me##+js(acs, $, banner)
 savevideo.tube##+js(aopr, AaDetector)
 savevideo.tube##+js(nowoif)
+savingcountrymusic.com###top-goog
 sbenny.com##.btnDownload5
 sbenny.com##.t3-masthead
 sbnation.com##[data-concert="medium_rectangle_variable"]
@@ -36503,6 +36519,9 @@ soft112.com##+js(nano-sib)
 softarchive.is##.c-un-link
 softarchive.is##.feature-usnt
 softarchive.is##.un-link
+softexia.com###top-line
+softexia.com##.a1g2023w
+softexia.com##.head-discount
 softexia.com##.offer
 softicons.com##.bottom_125_block
 softicons.com##.bottom_600_250_block
@@ -37586,6 +37605,7 @@ theyarehuge.com##.yellow
 theyarehuge.com##div[data-nosnippet]
 thgss.com##+js(nosiif, adsbygoogle)
 thingiverse.com##.AdBanner__adBanner--GpB5d
+thingiverse.com##.item-card-container:has-text(/^Ad$/)
 thingiverse.com##.item-card-container:has-text(Advertisement)
 thingstodovalencia.com##.get-your-guide
 this.org##.Wrap-leaderboard
@@ -39734,6 +39754,7 @@ zwergenstadt.com##+js(aeld, load, onload)
 ||05e4bd1819.com^
 ||05f3b6b187.com^
 ||05fa754f24.com^
+||063c37123a.com^
 ||067f87da09.com^
 ||06969451.xyz^
 ||06cffaae87.com^
@@ -39749,6 +39770,7 @@ zwergenstadt.com##+js(aeld, load, onload)
 ||08256602.xyz^
 ||08f8f073.xyz^
 ||08f8f073.xyz^$document,popup
+||091kdjn7.xyz^
 ||0926a687679d337e9d.com^
 ||095f2fc218.com^
 ||096243309f.com^
@@ -41424,6 +41446,7 @@ zwergenstadt.com##+js(aeld, load, onload)
 ||936781cc1a.com^
 ||937e30a10b.com^
 ||938az.xyz^
+||93a72bfca9.com^
 ||93febf18c6.com^
 ||9421d59b1d.com^
 ||94444717.xyz^
@@ -41503,6 +41526,7 @@ zwergenstadt.com##+js(aeld, load, onload)
 ||9dmnv9z0gtoh.com^
 ||9e11ec3a56.com^
 ||9e3810a418.com^
+||9e83087e91.com^
 ||9eebf015a5.com^
 ||9f0e7c5370.com^
 ||9f91b59591.com^
@@ -45757,6 +45781,7 @@ zwergenstadt.com##+js(aeld, load, onload)
 ||ablinksemail.wirexapp.com^
 ||ablinksuni.a.grubhub.com^
 ||ablinksuni.a.seamless.com^
+||ablockdoze.rest^
 ||ablogica.com^$popup
 ||ablsrv.com^$third-party
 ||abluvdiscr.com^
@@ -48430,6 +48455,7 @@ zwergenstadt.com##+js(aeld, load, onload)
 ||ahomsoalsoah.net^
 ||ahongbityite.com^
 ||ahoopiphoopsoa.net^
+||ahouta.qpon^
 ||ahqnijgiga.com^
 ||ahqpqagt.gay^
 ||ahqpzoas.com^
@@ -48465,6 +48491,7 @@ zwergenstadt.com##+js(aeld, load, onload)
 ||aibseensoo.net^
 ||aibsgc.com^
 ||aibvlvplqwkq.com^
+||aicignaizetsosh.net^
 ||aicipc.actonservice.com^
 ||aickeebsi.com^
 ||aickopoodxy.com^
@@ -49121,12 +49148,14 @@ zwergenstadt.com##+js(aeld, load, onload)
 ||almanpureed.com^
 ||almasatten.com^
 ||almehziganka.com^
+||almggvgzwqgjw.top^
 ||almggvgzwqgqv.top^
 ||almicefibrils.world^
 ||almightypush.com^
 ||almightyroomsimmaculate.com^
 ||almightysnail.com^
 ||almondytchr.world^
+||almoneraugite.com^
 ||almonryminuter.com^
 ||almostextrudingmanhood.com^
 ||almostmakes.com^
@@ -49228,6 +49257,7 @@ zwergenstadt.com##+js(aeld, load, onload)
 ||altervista.org/stats/
 ||altervista.org^*/tb_hits_
 ||altgwiabhakf.com^
+||alticamisdeal.world^
 ||alticoadvisors.actonservice.com^
 ||altitude-arena.com^
 ||altn.actonservice.com^
@@ -49295,6 +49325,7 @@ zwergenstadt.com##+js(aeld, load, onload)
 ||amahami.net.anwalt.de^
 ||amala-wav.com^
 ||amalakale.com^
+||amalettbeltis.rest^
 ||amalicsabino.life^
 ||amalto.actonservice.com^
 ||amandi.openapp.link^
@@ -49621,6 +49652,7 @@ zwergenstadt.com##+js(aeld, load, onload)
 ||analysis.aws.locondo.jp^
 ||analysis.fi^
 ||analysis.prod.joyfru.jiji.com^
+||analysis.sooplive.co.kr^
 ||analyt.ir^
 ||analytic-client.blitzmightyparty.com^
 ||analytic-client.chickgoddess.com^
@@ -50186,6 +50218,7 @@ zwergenstadt.com##+js(aeld, load, onload)
 ||analytics.vixcloud.co^
 ||analytics.vortexscans.com^
 ||analytics.warnertv.fr^
+||analytics.wask.co^
 ||analytics.wavebox.io^
 ||analytics.wayland.app^
 ||analytics.webgains.io^
@@ -50386,6 +50419,7 @@ zwergenstadt.com##+js(aeld, load, onload)
 ||animeheaven.*/api/pop.php$xhr,1p
 ||animeland.tv/zenny/
 ||animemeat.com^$popup
+||animinefecit.life^
 ||animisdimble.rest^
 ||animits.com^
 ||animoseelegy.top^
@@ -50458,6 +50492,8 @@ zwergenstadt.com##+js(aeld, load, onload)
 ||anontimes.com^
 ||anonymised.io^$third-party
 ||anonymousads.com^
+||anoocauzad.net^
+||anopiaaplysia.click^
 ||anopportunitytost.com^
 ||anormal-tracker.de^$third-party
 ||anoswxksciltq.com^
@@ -50623,6 +50659,7 @@ zwergenstadt.com##+js(aeld, load, onload)
 ||aoelfb.nanouniverse.jp^
 ||aohdlcbh.xyz^
 ||aohegrogmzgxy.space^
+||aohxvmdo.com^
 ||aoioedninwjya.space^
 ||aojhtyvd.com^
 ||aojhzj.watch.co.uk^
@@ -50637,6 +50674,7 @@ zwergenstadt.com##+js(aeld, load, onload)
 ||aom.smartbrief.com^
 ||aomarketing.blytheco.com^
 ||aomgyawomjmy.top^
+||aomgyawovbmw.top^
 ||aomgyawovbnv.top^
 ||aomxqfcj.global^
 ||aon.insurancemail.ca^
@@ -51384,6 +51422,7 @@ zwergenstadt.com##+js(aeld, load, onload)
 ||app.onyxcharge.com^
 ||app.openfolio.com^
 ||app.opmnstr.com/v2/geolocate/
+||app.optibase.io^
 ||app.optus.com.au^
 ||app.osubeavers.com^
 ||app.ouicsport.fr^
@@ -51715,6 +51754,7 @@ zwergenstadt.com##+js(aeld, load, onload)
 ||applicationsattaindevastated.com^
 ||applicationsstereocanoe.com^
 ||appliedsemantics.com/images/x.gif
+||applierlignes.com^
 ||applink-test.chalknation.com^
 ||applink.aspiration.com^
 ||applink.batterii.com^
@@ -52709,6 +52749,7 @@ zwergenstadt.com##+js(aeld, load, onload)
 ||athenainstitute.biz^$third-party
 ||athenapagnes.shop^
 ||atheneemiddles.cyou^
+||atheslkgczrrp.online^
 ||athin.site^
 ||athitmontopon.com^
 ||athl.lsusports.net^
@@ -52747,6 +52788,7 @@ zwergenstadt.com##+js(aeld, load, onload)
 ||atlpkhmh.xyz^
 ||atmalinks.com^
 ||atmbiurea.top^
+||atmdtntxmgpuv.space^
 ||atmenttogether.org^
 ||atmetagrossan.com^
 ||atmewtwochan.com^
@@ -52800,6 +52842,7 @@ zwergenstadt.com##+js(aeld, load, onload)
 ||attacheatableoverlabor.com^
 ||attachedkneel.com^
 ||attachedkneel.com^$popup
+||attaingeoffrey.com^
 ||attainthreatfluffy.com^
 ||attaintobiit.shop^
 ||attaleaasmile.shop^
@@ -52873,6 +52916,7 @@ zwergenstadt.com##+js(aeld, load, onload)
 ||aud.banque-france.fr^
 ||audaciousedifice.com^
 ||audacy.com/data-events/
+||audiblemidsummerasia.com^
 ||audiblereflectionsenterprising.com^
 ||audiblereflectionsenterprising.com^$popup
 ||audiblyjinx.com^
@@ -53205,6 +53249,7 @@ zwergenstadt.com##+js(aeld, load, onload)
 ||avthelkp.net^$popup
 ||avucammomtn.com^
 ||avuibxulygfyx.online^
+||avvbzudpi.com^
 ||avvelwavlkjev.top^
 ||avvelwavlkjwb.top^
 ||avvelwavlveew.top^
@@ -53214,6 +53259,7 @@ zwergenstadt.com##+js(aeld, load, onload)
 ||avvodmjpabin.com^
 ||avvxcystragmb.store^
 ||avvzamazdpa.com^
+||avwjyvwqywmj.top^
 ||avwjyvwqyzma.top^
 ||avwjyvwqyzor.top^
 ||avynavqwmvaw.top^
@@ -53246,6 +53292,7 @@ zwergenstadt.com##+js(aeld, load, onload)
 ||awasete.com^$third-party
 ||awasrqp.xyz^$popup
 ||awavjblaaewba.top^
+||awavjblrweqbj.top^
 ||awavjblrwerqr.top^
 ||away-stay.com^
 ||awbbcre.com^
@@ -53352,6 +53399,7 @@ zwergenstadt.com##+js(aeld, load, onload)
 ||awptjmp.com^
 ||awptjmp.com^$popup
 ||awptlpu.com^
+||awqidqrkrn.com^
 ||awrgkd.1000farmacie.it^
 ||aws-br-cdn.kwai.net.iberostar.com^
 ||aws-br-pic.kwai.net.iberostar.com^
@@ -53404,6 +53452,7 @@ zwergenstadt.com##+js(aeld, load, onload)
 ||axislogger.appspot.com^
 ||axisre.axiscapital.com^
 ||axjfkc.kobayashi.co.jp^
+||axjlszfvmfjpx.space^
 ||axjndvucr.com^
 ||axkadjqiqtik.com^
 ||axkcmb.mosigra.ru^
@@ -54161,6 +54210,7 @@ zwergenstadt.com##+js(aeld, load, onload)
 ||bannieres-a-gogo.com^$third-party
 ||bannisterflaskputdown.com^
 ||bannsdumped.shop^
+||banpxvessfb.com^
 ||banquetunarmedgrater.com^
 ||banquetunarmedgrater.com^$popup
 ||bans.bride.ru^
@@ -54445,6 +54495,8 @@ zwergenstadt.com##+js(aeld, load, onload)
 ||bcwljq.batteryempire.de^
 ||bcwpdvigokzca.space^
 ||bcybka.deinetuer.de^
+||bcybxygvbsyuv.website^
+||bcydxusraikpu.online^
 ||bcytwb.student.com^
 ||bczmrdfjkesgf.online^
 ||bd33500074.com^
@@ -54623,6 +54675,7 @@ zwergenstadt.com##+js(aeld, load, onload)
 ||beemray.com^$third-party
 ||beemrdwn.com^$third-party
 ||beenoper.com^
+||beeperconsiderably.com^
 ||beepnested.help^
 ||beepoowotheloda.net^
 ||beer2s.millerbrewing.com^
@@ -54723,6 +54776,7 @@ zwergenstadt.com##+js(aeld, load, onload)
 ||bellonapotype.com^
 ||bellowframing.com^
 ||bellpressinginspector.com^
+||beloidsqueaky.digital^
 ||belointeractive.com^$third-party
 ||belom.site^
 ||belong.curtin.edu.au^
@@ -55131,6 +55185,7 @@ zwergenstadt.com##+js(aeld, load, onload)
 ||bfuijelnyv.com^
 ||bfvjzpzmy.com^
 ||bfvlgp.appstory.co.kr^
+||bfwnbnerccsor.space^
 ||bfxytxdpnk.com^
 ||bfzikn.l-wine.ru^
 ||bg-go.experian.com^
@@ -55159,6 +55214,7 @@ zwergenstadt.com##+js(aeld, load, onload)
 ||bgxhsjycwbeiyws.xyz^
 ||bgxpnkwsikhkdnn.xyz^
 ||bgykufdn.xyz^
+||bgyqfqsulvmcf.space^
 ||bgyrhxxcxwcih.site^
 ||bh-test.groc.press^
 ||bh.groc.press^
@@ -55184,6 +55240,7 @@ zwergenstadt.com##+js(aeld, load, onload)
 ||bhihakqmybat.com^
 ||bhivpvsbhskzv.site^
 ||bhjmacgkyiiux.website^
+||bhketuklhhavv.website^
 ||bhkfnroleqcjhm.xyz^
 ||bhkyvtbdvmtrk.site^
 ||bhlimqvffapneh.com^
@@ -55429,6 +55486,7 @@ zwergenstadt.com##+js(aeld, load, onload)
 ||biotiteneer.top^
 ||bipartyskirled.cyou^
 ||bipbclsvkvjbcmi.com^
+||bipchhxntrgiwyw.com^
 ||biphic.com^
 ||biphic.com^$popup
 ||biplanekeach.digital^
@@ -55609,6 +55667,7 @@ zwergenstadt.com##+js(aeld, load, onload)
 ||bkogtr.vacationsbyrail.com^
 ||bkokuwxfetah.com^
 ||bkoqiqnmxfgth.website^
+||bkpmmpsqgluwj.online^
 ||bkpoef.jules.com^
 ||bkqklqvgoggaj.top^
 ||bkqklqvgogjwo.top^
@@ -55664,6 +55723,7 @@ zwergenstadt.com##+js(aeld, load, onload)
 ||bladderssewing.com^
 ||bladedescendant.com^
 ||bladespanel.com^
+||bladesparcelinvent.com^
 ||bladespillowcase.com^
 ||bladswetis.com^
 ||bladv.actonservice.com^
@@ -56152,6 +56212,7 @@ zwergenstadt.com##+js(aeld, load, onload)
 ||boilingtrust.pro^
 ||boingtv.fr/track_view
 ||boiqzsgnywkuv.today^
+||bojjgglazjzjj.top^
 ||bokarsolutions.co.uk^$3p
 ||bokecc.com/flash/playlog?
 ||bokecc.com/flash/timerecorder?
@@ -56355,6 +56416,7 @@ zwergenstadt.com##+js(aeld, load, onload)
 ||bosselinorrummage.com^
 ||bosspush.com^$third-party
 ||bossy-future.com^
+||bossyhearing.com^
 ||bossyinternal.pro^
 ||bostonscally.com/api/collect
 ||bostopago.com^
@@ -56850,6 +56912,7 @@ zwergenstadt.com##+js(aeld, load, onload)
 ||breyclwtvu.com^
 ||brfeneval.eccocar.com^
 ||brffhnhnqc.com^
+||brfkvvvpxn.com^
 ||brfree2move.eccocar.com^
 ||brgoazen.eccocar.com^
 ||brgroupeollandini.eccocar.com^
@@ -56887,6 +56950,7 @@ zwergenstadt.com##+js(aeld, load, onload)
 ||briefstem.com^
 ||brieftrouble.com^
 ||brielayover.com^
+||brieryardish.com^
 ||brieveuh.com^
 ||brigadedelegatesandbox.com^
 ||bright-pause.pro^
@@ -57153,6 +57217,7 @@ zwergenstadt.com##+js(aeld, load, onload)
 ||btghbzlmzpxzw.website^
 ||btguard.com/images/
 ||bthin.site^
+||bthythvdrdbud.space^
 ||btiatfobkjiv.com^
 ||btiwawravxaf.com^
 ||btleajmkfevym.store^
@@ -57207,6 +57272,7 @@ zwergenstadt.com##+js(aeld, load, onload)
 ||bucksmawger.com^
 ||bucksmein.com^$document
 ||buckumoore.com^
+||buckweeklyrecording.com^
 ||bucraneburet.top^
 ||budaringing.life^
 ||buddedbotoyan.shop^
@@ -57470,6 +57536,7 @@ zwergenstadt.com##+js(aeld, load, onload)
 ||busuanzi.ibruce.info^$third-party
 ||busy-man.com^
 ||busyishdodged.help^
+||butenylevans.world^
 ||buteopung.com^
 ||butlercc.actonservice.com^
 ||butlerrecast.com^
@@ -57481,6 +57548,7 @@ zwergenstadt.com##+js(aeld, load, onload)
 ||butterly.com/node_modules/detect.js/detect.min.js
 ||butteryamount.pro^
 ||butterysteal.pro^
+||buttonderecho.digital^
 ||buttonladybug.com^
 ||buttontileaiming.com^
 ||buushckdu.com^
@@ -57584,6 +57652,7 @@ zwergenstadt.com##+js(aeld, load, onload)
 ||bxbkh.love^
 ||bxbuvv.zeelool.com^
 ||bxdeaeieixgkf.store^
+||bxerfbkaoasof.space^
 ||bxewixjwwllvo.site^
 ||bxfqkwueufxrq.store^
 ||bxglynwnlnrwa.website^
@@ -57652,6 +57721,7 @@ zwergenstadt.com##+js(aeld, load, onload)
 ||byoxxapgnfhdt.site^
 ||bypassduehardly.com^
 ||bypastunrhyme.world^
+||bypkevin.digital^
 ||byqdtp.interpark.com^
 ||byremansurf.top^
 ||byronhuipil.com^
@@ -57930,6 +58000,7 @@ zwergenstadt.com##+js(aeld, load, onload)
 ||cakmzz.schwab.de^
 ||caknmq.rotita.com^
 ||cakvwonirrw.com^
+||cakxqnasxkwnb.space^
 ||calahanayre.life^
 ||calaiseyewink.help^
 ||calalutarrily.cyou^
@@ -57971,6 +58042,7 @@ zwergenstadt.com##+js(aeld, load, onload)
 ||calldesignna.actonservice.com^
 ||callisto.fm^$third-party
 ||callmeasurement.com^$third-party
+||callopdermoid.click^
 ||callousbrake.com^
 ||callrail.com^$third-party
 ||callreports.com^$third-party
@@ -58168,6 +58240,7 @@ zwergenstadt.com##+js(aeld, load, onload)
 ||canellecrazy.com^
 ||canelorets.com^
 ||canem-auris.com^$third-party
+||canesfederalnewspapers.com^
 ||caneshomo.digital^
 ||canfulpother.shop^
 ||canganzimbi.com^
@@ -58439,6 +58512,7 @@ zwergenstadt.com##+js(aeld, load, onload)
 ||catalove.com/bimp/
 ||catalove.com/ntv/
 ||catastropheillusive.com^
+||catchbarracksclinic.com^
 ||catchtheclick.com^$popup
 ||catchupfasc.cfd^
 ||catelslurban.top^
@@ -58456,6 +58530,7 @@ zwergenstadt.com##+js(aeld, load, onload)
 ||catherinebrochure.com^$popup
 ||cathharlot.world^
 ||cathodecynodon.shop^
+||catholicncesisp.com^
 ||catholicprevalent.com^
 ||cathopunimped.cfd^
 ||cathrynslues.com^
@@ -58593,6 +58668,7 @@ zwergenstadt.com##+js(aeld, load, onload)
 ||ccdd7a795c.com^
 ||ccdflm.limberry.de^
 ||ccdgqqaukssmx.website^
+||ccdhskjkkerdt.website^
 ||ccesserjumana.shop^
 ||ccexperimentsstatic.oracleoutsourcing.com^
 ||ccfvhquaynxcp.space^
@@ -58855,6 +58931,7 @@ zwergenstadt.com##+js(aeld, load, onload)
 ||cederverist.world^
 ||cedesenvy.digital^
 ||cedexis.com^$third-party
+||cedhecpihlcjd.com^
 ||cediscaffer.click^
 ||cedricfaces.shop^
 ||cedrt6.pro^
@@ -59067,6 +59144,7 @@ zwergenstadt.com##+js(aeld, load, onload)
 ||chaberwaicuri.world^
 ||chabsashibsou.com^
 ||chachors.net^
+||chackersiever.world^
 ||chacmaye.world^
 ||chacolieutopia.shop^
 ||chademocharge.com^
@@ -59106,6 +59184,7 @@ zwergenstadt.com##+js(aeld, load, onload)
 ||chalonsharking.world^
 ||chambermaidthree.xyz^
 ||chambermaidthree.xyz^$document
+||chamberscrisiswalnut.com^
 ||chamberssnorted.com^
 ||chammamauling.world^
 ||championshipcoma.com^
@@ -59165,6 +59244,7 @@ zwergenstadt.com##+js(aeld, load, onload)
 ||chargesreally.top^
 ||chargingconnote.com^
 ||chariotfilar.help^
+||charitablewithdrawal.com^
 ||charityflopchristening.com^
 ||charitylingoreformer.com^
 ||charitymelodysleek.com^
@@ -59562,6 +59642,7 @@ zwergenstadt.com##+js(aeld, load, onload)
 ||chulansquibs.world^
 ||chultoux.com^
 ||chultoux.com^$popup
+||chumgoalies.life^
 ||chummypotgun.shop^
 ||chumpededo.com^
 ||chunamiconic.help^
@@ -59754,6 +59835,7 @@ zwergenstadt.com##+js(aeld, load, onload)
 ||civvyswangy.qpon^
 ||ciwxkexstd.com^
 ||cixolripsu.net^
+||cizrvykmdgv.com^
 ||cizzvi.beldona.com^
 ||cj2550.com^
 ||cjauuixzgxggrh.com^
@@ -59793,6 +59875,7 @@ zwergenstadt.com##+js(aeld, load, onload)
 ||ckfaconxrhyen.website^
 ||ckggtbgbaljhdxq.com^
 ||ckgroundan.org^
+||ckhillulshshg.site^
 ||ckies.net^
 ||ckitwlmqy-c.today^
 ||ckjstvyrnckrbm.com^
@@ -60782,6 +60865,7 @@ zwergenstadt.com##+js(aeld, load, onload)
 ||coffeesidehustle.com^
 ||coffeycomm.actonservice.com^
 ||cofpmgfmx.com^
+||coftfdtcjtnjt.website^
 ||cogaijaimt.net^
 ||cogesrtordlwm.tech^
 ||coggieforwent.top^
@@ -60958,6 +61042,7 @@ zwergenstadt.com##+js(aeld, load, onload)
 ||collector.xhamster2.com^
 ||collector.xhamster3.com^
 ||collector.xhamsterporno.mx^
+||collector1.sooplive.co.kr^
 ||collector2c.zhihuishu.com^
 ||collector5.zipy.ai^
 ||collectorcommander.com^
@@ -61008,6 +61093,7 @@ zwergenstadt.com##+js(aeld, load, onload)
 ||colossusssp.com^$third-party
 ||colourevening.com^
 ||coltagainst.pro^
+||coltlimb.com^
 ||coluberbalcone.digital^
 ||columbahealing.cyou^
 ||columbustech.tcsg.edu^
@@ -61048,6 +61134,7 @@ zwergenstadt.com##+js(aeld, load, onload)
 ||comeon.com/tracking.php
 ||comerhurlentertain.com^
 ||comersvowelly.cfd^
+||comertmtcyglq.website^
 ||cometquote.com^
 ||comfortablecheese.com^
 ||comfortablepossibilitycarlos.com^
@@ -61241,6 +61328,7 @@ zwergenstadt.com##+js(aeld, load, onload)
 ||computers.panasonic.eu^
 ||compuware.actonservice.com^
 ||comscore.com^$third-party
+||comtecangues.world^
 ||comtelitalia.alcatel-lucent.com^
 ||comtianshotes.shop^
 ||comunicacao.edpcomunicacao.com.br^
@@ -62303,6 +62391,7 @@ zwergenstadt.com##+js(aeld, load, onload)
 ||cpihrinfo.cpihr.com^
 ||cpiibb.top-office.com^
 ||cpjcyfcptsps.com^
+||cpjgcxcpswkai.space^
 ||cpjxmaecroqix.online^
 ||cpkshop.com/campaign/$third-party
 ||cpkwmmawszpkj.store^
@@ -62372,6 +62461,7 @@ zwergenstadt.com##+js(aeld, load, onload)
 ||cqemus.gartenhaus-gmbh.de^
 ||cqhqxnvjujhgix.com^
 ||cqishr.mobile.de^
+||cqjgztejpzvkd.space^
 ||cqkikfffmcqbl.online^
 ||cqkuxwnele.com^
 ||cqkzgchjtlllo.store^
@@ -62960,6 +63050,7 @@ zwergenstadt.com##+js(aeld, load, onload)
 ||ctrhub.com^$third-party
 ||ctrkd.ilsole24ore.com^
 ||ctrl.blog/ac/rba$frame,1p
+||ctrlzqdvfaqsb.online^
 ||ctrmanager.com^$third-party
 ||ctrmi.cn/t/
 ||ctrwnhpxiklln.website^
@@ -63065,6 +63156,7 @@ zwergenstadt.com##+js(aeld, load, onload)
 ||culquxawv.com^
 ||cultishmegasse.top^
 ||cultivatedcan.pro^
+||cultivatedclassy.com^
 ||cultofmac.com/djrxqhzkbsgf.js
 ||culturaltracking.ru^$third-party
 ||culture.intermedes.com^
@@ -63384,6 +63476,7 @@ zwergenstadt.com##+js(aeld, load, onload)
 ||cyan92010.com^$popup
 ||cyanomudcat.world^
 ||cyathosaloesol.top^
+||cyatlanfb.com^
 ||cybba.solutions^
 ||cyber-guard.me^$popup
 ||cyber-pages.att.com^
@@ -64532,6 +64625,7 @@ zwergenstadt.com##+js(aeld, load, onload)
 ||d5465f9d11.com^
 ||d5d3sg85gu7o6.cloudfront.net^
 ||d5db478dde.com^
+||d5fb078bf9.com^
 ||d5onopbfw009h.cloudfront.net^
 ||d5wxfe8ietrpg.cloudfront.net^
 ||d5xsfddfzb99g.cloudfront.net^
@@ -64731,6 +64825,7 @@ zwergenstadt.com##+js(aeld, load, onload)
 ||damboreism.world^
 ||damdoor.com^
 ||damedamehoy.xyz^
+||dameeckooftee.net^
 ||damfooluncomic.shop^
 ||damiajuly.shop^
 ||damierbrain.top^
@@ -65756,6 +65851,7 @@ zwergenstadt.com##+js(aeld, load, onload)
 ||dddomainccc.com^
 ||dddomainccc.com^$popup
 ||ddelqieomzyds.online^
+||ddfbgbghyxrtq.site^
 ||ddfcash.com^$third-party
 ||ddhjnrssqnmxc.store^
 ||ddijapp.com^
@@ -65780,6 +65876,7 @@ zwergenstadt.com##+js(aeld, load, onload)
 ||ddrsemxv.com^
 ||ddrvjrfwnij7n.cloudfront.net^
 ||ddsndt.azubiyo.de^
+||ddtrjckrzyfjh.space^
 ||ddtvskish.com^
 ||ddvbjehruuj5y.cloudfront.net^
 ||ddvdotpyluwzc.website^
@@ -65837,6 +65934,7 @@ zwergenstadt.com##+js(aeld, load, onload)
 ||debaucky.com^
 ||debaucky.com^$document
 ||debaucky.com^$popup
+||debfhmorpkpfeu.xyz^
 ||debitcrebit669.com^$third-party
 ||debitligated.top^
 ||debjpy.globoshoes.com^
@@ -66068,6 +66166,7 @@ zwergenstadt.com##+js(aeld, load, onload)
 ||del-del-ete.com^
 ||delacebirrs.shop^
 ||delacfyk.com^
+||delaineeoiths.cfd^
 ||delayeddisputecommotion.com^
 ||delectable-earth.com^
 ||delectabletown.com^
@@ -66233,6 +66332,7 @@ zwergenstadt.com##+js(aeld, load, onload)
 ||depressionforums.org/wp-content/uploads/2023/05/balban.jpg.webp
 ||deputizeeverydayexorcist.com^
 ||deputizepacifistwipe.com^
+||deputyconnate.com^
 ||deputydelicacyopt.com^
 ||depvailon.com/sponsored.html
 ||deqiypfdqbl.xyz^
@@ -66984,6 +67084,7 @@ zwergenstadt.com##+js(aeld, load, onload)
 ||dindeedtheriver.com^
 ||dinecogitateaffections.com^
 ||dinejav11.fun^
+||dineproteinhamlet.com^
 ||dineticfulfill.cyou^
 ||dingebeek.com^
 ||dingedbiarchy.top^
@@ -67016,6 +67117,7 @@ zwergenstadt.com##+js(aeld, load, onload)
 ||dippingearlier.com^
 ||dipppyruiners.top^
 ||dippymeinies.click^
+||dipsotarraba.qpon^
 ||diptaich.com^
 ||diptycafunky.world^
 ||dipxmakuja.com^
@@ -67053,6 +67155,7 @@ zwergenstadt.com##+js(aeld, load, onload)
 ||directtrck.com^$popup
 ||direeyesightstray.com^
 ||direfuldesk.com^
+||diregun.digital^
 ||diremptchores.shop^
 ||dirgingkeelage.com^
 ||diritalia.com^*/seosensor.js
@@ -67714,6 +67817,7 @@ zwergenstadt.com##+js(aeld, load, onload)
 ||dolehum.com^
 ||dolekaraokeoversleep.com^
 ||dolhuvumjpzwv.website^
+||dolinghugely.digital^
 ||doljqrkgovqce.website^
 ||dollardelta.com^
 ||dollartree.com/ccstoreui/*/analytics/
@@ -67930,6 +68034,7 @@ zwergenstadt.com##+js(aeld, load, onload)
 ||douckerpearled.cfd^
 ||doufoushig.xyz^
 ||dougale.com^
+||doughgenuinelypreviously.com^
 ||doughtrockier.rest^
 ||douglasjamestraining.com^$popup
 ||doukouphaigi.com^
@@ -68085,11 +68190,13 @@ zwergenstadt.com##+js(aeld, load, onload)
 ||dq06u9lt5akr2.cloudfront.net^
 ||dq3yxnlzwhcys.cloudfront.net^
 ||dq95d35.com^
+||dqaadsxjf.com^
 ||dqbrrsfcx.com^
 ||dqd5t8xfxmhi7.cloudfront.net^
 ||dqdtshdifbwm.xyz^
 ||dqdwolxvqpovb.store^
 ||dqefxd.kaigoworker.jp^
+||dqgjkrsabhnqd.space^
 ||dqgtmenikcjbaf.xyz^
 ||dqhgoyjewgm.com^
 ||dqhooyeampqsg.space^
@@ -68141,6 +68248,7 @@ zwergenstadt.com##+js(aeld, load, onload)
 ||dratetillage.com^
 ||dratingmaject.com^
 ||drau.viessmann.si^
+||drawbackprotectivecut.com^
 ||draweesspinose.cfd^
 ||drawingwheels.com^
 ||drawnetexxon.shop^
@@ -68187,6 +68295,7 @@ zwergenstadt.com##+js(aeld, load, onload)
 ||drenix50kp.com^
 ||drepanestyptic.rest^
 ||drepjwyjagsl.com^
+||dreycusps.com^
 ||dreyeli.info^
 ||dreyntbynames.top^
 ||drf8e429z5jzt.cloudfront.net^
@@ -68268,6 +68377,7 @@ zwergenstadt.com##+js(aeld, load, onload)
 ||drossedinspoke.rest^
 ||drossesareca.com^
 ||drosseseably.qpon^
+||drossesrubelet.world^
 ||droukethebrew.life^
 ||droukitbackcap.click^
 ||droukscixiid.help^
@@ -68595,6 +68705,7 @@ zwergenstadt.com##+js(aeld, load, onload)
 ||dust-0001.delorazahnow.workers.dev^
 ||dustbehelp.cyou^
 ||dustbluwitter.shop^
+||dusterracier.world^
 ||dustexhibition.com^
 ||dustinga.com^
 ||dustydime.com^
@@ -68731,6 +68842,7 @@ zwergenstadt.com##+js(aeld, load, onload)
 ||dxvewbdywd.com^
 ||dxwtokotnvmsz.store^
 ||dxz454z33ibrc.cloudfront.net^
+||dxzjhinnqbeej.site^
 ||dy2xcjk8s1dbz.cloudfront.net^
 ||dy5t1b0a29j1v.cloudfront.net^
 ||dyassea.world^
@@ -68818,6 +68930,7 @@ zwergenstadt.com##+js(aeld, load, onload)
 ||dzjlxonxrnetj.website^
 ||dzjlyvcsggmls.online^
 ||dzkdyqyvadyqq.online^
+||dzkmjwirelhdd.space^
 ||dzkygl.ullapopken.nl^
 ||dzliege.com^
 ||dzpoejczjsmkk.store^
@@ -69039,6 +69152,7 @@ zwergenstadt.com##+js(aeld, load, onload)
 ||eagle.aon.com^
 ||eagleapi.io^
 ||eagrassdenat.help^
+||eahitoeibtxjc.store^
 ||eahpujutchkzn.online^
 ||eakaih.creditas.com^
 ||eakelandorder.com^
@@ -69217,6 +69331,7 @@ zwergenstadt.com##+js(aeld, load, onload)
 ||ebgagg.pink.rs^
 ||ebgfyn.zenden.ru^
 ||ebhjhw.bonprix.es^
+||ebirtoxecsfe.com^
 ||ebis-cname.mirai-japan.co.jp^
 ||ebis-tracking.hirakata-skin-clinic.com^
 ||ebis-tracking.okinawa-keisei.com^
@@ -69772,6 +69887,7 @@ zwergenstadt.com##+js(aeld, load, onload)
 ||egraglauvoathog.com^$popup
 ||egretswamper.com^$popup
 ||egroudoonikaizu.com^
+||egtgkxhjb.com^
 ||egusgcddjph.com^
 ||egvemw.aboutyou.ee^
 ||egvjbxyvmcjxbf.com^
@@ -69819,6 +69935,7 @@ zwergenstadt.com##+js(aeld, load, onload)
 ||eighmphd.com^
 ||eighten-bloc-party.thebrowser.company/script.js
 ||eighthpowerfully.com^
+||eijivbeakvnpi.store^
 ||eikegolehem.com^
 ||eikwax.marmot.com^
 ||eiledstevermotorie.org^
@@ -69877,6 +69994,7 @@ zwergenstadt.com##+js(aeld, load, onload)
 ||ekaacdiilusiw.space^
 ||ekamsply.com^
 ||ekaxkgxl.com^
+||ekbggmuqsovel.site^
 ||ekctohqd.com^
 ||ekczzoyecfkfm.store^
 ||ekdllcgoehbht.store^
@@ -69892,6 +70010,7 @@ zwergenstadt.com##+js(aeld, load, onload)
 ||ekmas.com^
 ||ekmpinpoint.co.uk^$third-party
 ||ekmpinpoint.com^$third-party
+||ekocdokfmzwnz.site^
 ||ekomughaunso.com^
 ||ekont.site^
 ||ekovsuztvtobn.site^
@@ -69947,6 +70066,7 @@ zwergenstadt.com##+js(aeld, load, onload)
 ||electronics.edm.globalsources.com^
 ||electronics.sony-latin.com^
 ||electronics.tradeshow.globalsources.com^
+||elegancecharacter.com^
 ||elegant-most.com^
 ||elegant-plate.pro^
 ||elegantaddress.pro^
@@ -70227,6 +70347,7 @@ zwergenstadt.com##+js(aeld, load, onload)
 ||elxejvtqlfqkh.com^
 ||elyandbegantoti.com^
 ||elybdykfn.com^
+||elysiumingreat.top^
 ||elytronkantele.shop^
 ||elyxvt.wilsonamplifiers.com^
 ||elzjpudbejqgsc.com^
@@ -70521,6 +70642,7 @@ zwergenstadt.com##+js(aeld, load, onload)
 ||embed.ex.co^$third-party
 ||embed.reddit.com/svc/shreddit
 ||embed.sendtonews.com^$third-party,domain=~shmoop.com
+||embed.wcostream.com/inc/embed/index.php?file=$uritransform=/index/video-js/
 ||embeddedanalytics.com^$third-party
 ||embeddedoxide.com^
 ||embedme.top/embed/extra
@@ -71140,6 +71262,7 @@ zwergenstadt.com##+js(aeld, load, onload)
 ||epkkeumsxbnc.com^
 ||epl.paypal-communication.com^$script
 ||epldjrxblnvpa.store^
+||eplixxwmbkoqp.space^
 ||eplnbkzoxypz.com^
 ||eplndhtrobl.com^
 ||epm.mailperformance.com^
@@ -71179,6 +71302,7 @@ zwergenstadt.com##+js(aeld, load, onload)
 ||eputysolomon.com^
 ||epwa.europarl.europa.eu^
 ||epwbtoqakgixx.site^
+||epwlfmllsm.com^
 ||epwmnrpoqjut.xyz^
 ||eq-beacon.stream.co.jp^
 ||eq-player-log.cdnext.stream.ne.jp^
@@ -71554,6 +71678,7 @@ zwergenstadt.com##+js(aeld, load, onload)
 ||etrader.kalahari.com^
 ||etrader.kalahari.net^
 ||etrem.site^
+||etrewon.com^
 ||etrigue.com^$third-party
 ||etruriatolling.help^
 ||etrust.eu^$third-party
@@ -71669,6 +71794,7 @@ zwergenstadt.com##+js(aeld, load, onload)
 ||euphonefiar.com^
 ||euphoric-nature.com^
 ||euphoriccommittee.com^$popup
+||euphuesmasses.com^
 ||euplow.help^
 ||euqehpnbxmqhj.store^
 ||euqsfp.belluna.jp^
@@ -71686,6 +71812,7 @@ zwergenstadt.com##+js(aeld, load, onload)
 ||europe1.fr/assets/europe1/estat.
 ||europeangaming.eu/portal/wp-admin/admin-ajax.php?action=acc_get_banners
 ||europeanivanprestigious.com^
+||europeanplash.com^
 ||europuls.eu^$third-party
 ||europuls.net^$third-party
 ||euros4click.de^
@@ -71708,6 +71835,7 @@ zwergenstadt.com##+js(aeld, load, onload)
 ||euscarosabaoth.top^
 ||eusdbk.philosophyofficial.com^
 ||euslhmqbgjogp.space^
+||eusnqnhfbifjv.space^
 ||eussownwpyxdw.online^
 ||eusvnhgypltw.life^
 ||eutecnimzptot.space^
@@ -71982,6 +72110,7 @@ zwergenstadt.com##+js(aeld, load, onload)
 ||ew3.io^
 ||ewalxb.epicsports.com^
 ||ewbvurkrbxspe.vip^
+||ewderhovered.qpon^
 ||ewdxisdrc.com^
 ||ewebanalytics.com^$third-party
 ||eweconciliate.com^
@@ -72032,6 +72161,7 @@ zwergenstadt.com##+js(aeld, load, onload)
 ||exauntryouts.qpon^
 ||exbujk.glamood.com^
 ||excavatenearbywand.com^
+||exceedinglyorangesclothe.com^
 ||exceedinglytells.com^
 ||exceedunited.com^
 ||excellenceads.com^
@@ -72309,6 +72439,7 @@ zwergenstadt.com##+js(aeld, load, onload)
 ||extsoft.info^$document
 ||extsoft.info^$popup
 ||exuberantedge.com^
+||exucn.com^
 ||exurbdaimiel.com^
 ||exurgezoilus.top^
 ||exuviafigged.qpon^
@@ -72522,6 +72653,7 @@ zwergenstadt.com##+js(aeld, load, onload)
 ||fackeyess.com^$popup
 ||facltoriufnoa.website^
 ||facondecoulage.shop^
+||factobursae.shop^
 ||factors.ai/sdk/event/
 ||factory.redbull.racing^
 ||factorybarbell.com^
@@ -72564,6 +72696,7 @@ zwergenstadt.com##+js(aeld, load, onload)
 ||failbagonet.shop^
 ||failedapartment.com^
 ||failedforks.com^
+||failedfrustratingthesis.com^
 ||failingforce.pro^
 ||failingidothea.digital^
 ||failingrole.pro^
@@ -73113,6 +73246,7 @@ zwergenstadt.com##+js(aeld, load, onload)
 ||feridjipricer.cyou^
 ||ferijeerippier.help^
 ||fermailoxfly.rest^
+||fermataintima.com^
 ||fermateiridous.digital^
 ||fermerypaten.life^
 ||fermilacurvity.cfd^
@@ -73283,6 +73417,7 @@ zwergenstadt.com##+js(aeld, load, onload)
 ||fieryinjure.com^
 ||fieslobwg.com^
 ||fiexpectthat.org^
+||fifeappmt.cfd^
 ||fight.offtherecord.com^
 ||fightingleatherconspicuous.com^
 ||fightmallowfiasco.com^
@@ -73522,6 +73657,7 @@ zwergenstadt.com##+js(aeld, load, onload)
 ||fiwinet.firmenwissen.com^
 ||fiwinet.firmenwissen.de^
 ||fixatealaloi.top^
+||fixatessoused.com^
 ||fixbpoonj.com^
 ||fixcounter.com^$third-party
 ||fixed-complex.pro^
@@ -73575,6 +73711,7 @@ zwergenstadt.com##+js(aeld, load, onload)
 ||fkklcqmeqoerb.space^
 ||fkmdky.lifehacker.ru^
 ||fkmzox.teinei.co.jp^
+||fkoixuuzbvklu.online^
 ||fkojwcmyymgjt.online^
 ||fkondate.com^$third-party
 ||fkpztzciioaugp.com^
@@ -73616,6 +73753,7 @@ zwergenstadt.com##+js(aeld, load, onload)
 ||flamk.com^
 ||flamssybotic.top^
 ||flamtyr.com^
+||flankyyowler.help^
 ||flansactidaced.com^
 ||flansjulus.rest^
 ||flappittard.cfd^
@@ -73814,6 +73952,7 @@ zwergenstadt.com##+js(aeld, load, onload)
 ||fluffytracing.com^
 ||fluidsurveys.com^$third-party
 ||fluingdulotic.com^
+||fluiyhtncueau.store^
 ||flurry.com^$third-party
 ||flushedheartedcollect.com^
 ||flushedheartedcollect.com^$popup
@@ -74068,6 +74207,7 @@ zwergenstadt.com##+js(aeld, load, onload)
 ||forbin.actonservice.com^
 ||force24.co.uk^$third-party
 ||forcefulpacehauled.com^
+||forcersbolled.shop^
 ||forcertollon.help^
 ||fordedcompert.shop^
 ||fordedcostaea.com^
@@ -74129,6 +74269,7 @@ zwergenstadt.com##+js(aeld, load, onload)
 ||form.fusesource.com^
 ||form.harvardbusiness.org^
 ||form.innovative-design-lab.com^
+||form.typeform.com/forms/*/insights/
 ||form.vocalink.com^
 ||formaciones.arin-innovation.com^
 ||formalcrock.digital^
@@ -74148,6 +74289,7 @@ zwergenstadt.com##+js(aeld, load, onload)
 ||formingclayease.com^
 ||formisimo.com^$third-party
 ||formismagiustor.com^
+||formitybluey.digital^
 ||formoredetaails.com^
 ||forms-emea.lenovo.com^
 ||forms.accc-cancer.org^
@@ -74854,6 +74996,7 @@ zwergenstadt.com##+js(aeld, load, onload)
 ||ftuart.chomedeynissan.com^
 ||ftuyknchn.com^
 ||ftv-publicite.fr^
+||ftwawfsjadhjm.online^
 ||ftwnwght.net.anwalt.de^
 ||ftwo-feedback.autohome.com.cn^
 ||ftwo-receiver.autohome.com.cn^
@@ -74913,6 +75056,7 @@ zwergenstadt.com##+js(aeld, load, onload)
 ||fuhoftoajoabs.net^
 ||fuicmy.hana-mail.jp^
 ||fuiwnsgpxmjm.com^
+||fujhobzuztqvx.website^
 ||fujifilmdb.fujifilmdiosynth.com^
 ||fujispilea.life^
 ||fujolfgip.com^
@@ -75049,6 +75193,7 @@ zwergenstadt.com##+js(aeld, load, onload)
 ||futbol24.com/kscms_asyncspc.php
 ||futbollatam.com/ads.js
 ||futcceabr.com^
+||futjfanbtb.com^
 ||futseerdoa.com^
 ||futsonseeke.net^
 ||futtahagenes.world^
@@ -75143,6 +75288,7 @@ zwergenstadt.com##+js(aeld, load, onload)
 ||fwpixel.com^$third-party
 ||fwpub1.com^$domain=ndtv.com|ndtv.in
 ||fwpugy.savilerowco.com^
+||fwqasyuebarqa.space^
 ||fwqoepqtodn.com^
 ||fwsgvo.takami-labo.com^
 ||fwsigpacfqznc.site^
@@ -75157,6 +75303,7 @@ zwergenstadt.com##+js(aeld, load, onload)
 ||fxdepo.com^
 ||fxdgionl.com^
 ||fxdmnmsna.space^
+||fxdxrkicoqxxrbe.com^
 ||fxenghlfnqnxb.website^
 ||fxfezg.bodylab24.de^
 ||fxipca.americanexpress.ca^
@@ -75401,6 +75548,7 @@ zwergenstadt.com##+js(aeld, load, onload)
 ||galleries-pornstar.com/thumb_top/
 ||gallerysouvlakeri.openapp.link^
 ||galleystirrup.help^
+||galliccassias.qpon^
 ||gallonjav128.fun^
 ||gallontwerps.rest^
 ||gallupcommend.com^
@@ -75495,6 +75643,7 @@ zwergenstadt.com##+js(aeld, load, onload)
 ||ganeduffles.life^
 ||ganehangmen.com^
 ||gangconditionssidewalk.com^
+||gangfumbrchqm.website^
 ||gangwaynumberprivacy.com^
 ||gangwaynumberprivacy.com^$popup
 ||ganismpro.com^
@@ -75607,6 +75756,7 @@ zwergenstadt.com##+js(aeld, load, onload)
 ||gaussinthral.com^
 ||gautley.top^
 ||gauvaiho.net^
+||gauzeexterminatesupervise.com^
 ||gavearsonistclever.com^
 ||gawainsocii.top^
 ||gawayez.e-postserv.com^
@@ -75699,6 +75849,7 @@ zwergenstadt.com##+js(aeld, load, onload)
 ||gcvir.xyz^
 ||gcwubi.happypancake.fi^
 ||gcxiyx.inspireuplift.com^
+||gcxqfqykhnzai.online^
 ||gcydzxkkrkpfb.space^
 ||gcyxdcpedyn.xyz^
 ||gdajuytgupptx.world^
@@ -75934,10 +76085,12 @@ zwergenstadt.com##+js(aeld, load, onload)
 ||geraflows.com^
 ||gercrowrearray.top^
 ||gereclamor.top^
+||gerentstaperly.com^
 ||gerimpigfoot.com^
 ||germaniavid.com^$third-party
 ||germanyetch.top^
 ||germierforwalk.cyou^
+||germinaminuets.shop^
 ||germinamuskish.top^
 ||germinappropriateengine.com^
 ||germinatethick.com^
@@ -76477,6 +76630,7 @@ zwergenstadt.com##+js(aeld, load, onload)
 ||gjljde.kathmandu.co.nz^
 ||gjlkzltqvdjeo.site^
 ||gjmovc.epapoutsia.gr^
+||gjmqzcxfbihuw.store^
 ||gjnbkrhrbzs.com^
 ||gjndsa.amaro.com^
 ||gjnqoutbxohdb.site^
@@ -76484,6 +76638,7 @@ zwergenstadt.com##+js(aeld, load, onload)
 ||gjrlcxthtkeab.site^
 ||gjsbhticwqla.com^
 ||gjwos.org^
+||gjxoqgdozssvh.website^
 ||gk.gkservices.com^
 ||gk.sina.cn^
 ||gk79a2oup.com^
@@ -76591,6 +76746,7 @@ zwergenstadt.com##+js(aeld, load, onload)
 ||glbjhmruwbosw.club^
 ||glbtracker.com^$third-party
 ||glbtrk.com^
+||glcdzojthfbaw.site^
 ||glddhbxmzctdb.online^
 ||gldkzr-lpqw.buzz^
 ||gldotpmpkhbbr.com^
@@ -76607,6 +76763,7 @@ zwergenstadt.com##+js(aeld, load, onload)
 ||glebesbridged.digital^
 ||glebesfacsim.rest^
 ||glecmaim.net^
+||glededeceits.life^
 ||gleedrizoucaks.net^
 ||gleedsodrobeel.net^
 ||gleeful-fold.pro^
@@ -76721,6 +76878,7 @@ zwergenstadt.com##+js(aeld, load, onload)
 ||glokta.info^
 ||glomera.com/stats
 ||glomex.com^$ping
+||gloochelraisse.net^
 ||gloodsie.com^
 ||gloograuft.com^
 ||gloogruk.com^$popup
@@ -76778,6 +76936,7 @@ zwergenstadt.com##+js(aeld, load, onload)
 ||glugherg.net^$popup
 ||gluiestmenison.top^
 ||glukropi.com^
+||glulsoabsaroord.com^
 ||glum-mortgage.com^
 ||glumecodist.top^
 ||glumrevenue.com^
@@ -76877,6 +77036,7 @@ zwergenstadt.com##+js(aeld, load, onload)
 ||gnrgjbquvyvml.site^
 ||gnrmty.eurovaistine.lt^
 ||gnula.*/player/vast*xml|$xhr,1p
+||gnutplhbojrfe.site^
 ||gnvpzgnvkvnfn.website^
 ||gnyjxyzqdcjb.com^
 ||gnysfyohlvf.com^
@@ -77856,6 +78016,7 @@ zwergenstadt.com##+js(aeld, load, onload)
 ||gousoachahapt.com^
 ||goutee.top^
 ||goutscoxite.top^
+||goutslollup.world^
 ||gouzoptemus.net^
 ||govebecap.world^
 ||government.informaengage.com^
@@ -77869,6 +78030,7 @@ zwergenstadt.com##+js(aeld, load, onload)
 ||gowatchit.com^*/tracking/
 ||gowestgroup.actonservice.com^
 ||gowhiteowl.actonservice.com^
+||gowkcfvlcvmsm.space^
 ||gowkspotage.life^
 ||gowningjewely.world^
 ||gownlile.click^
@@ -77983,6 +78145,7 @@ zwergenstadt.com##+js(aeld, load, onload)
 ||grampusbosque.top^
 ||granaryvernonunworthy.com^
 ||grandchildlayoutdoorman.com^
+||grandchildsaint.com^
 ||granddadfindsponderous.com^
 ||grande.actonservice.com^
 ||grandeeregaled.top^
@@ -78046,6 +78209,7 @@ zwergenstadt.com##+js(aeld, load, onload)
 ||gravuremiche.world^
 ||gravyhuman.com^
 ||grayerkhlysti.help^
+||grayfelicity.com^
 ||graylog.prod.cams.run^
 ||grayoranges.com^
 ||grayreceipt.com^
@@ -78112,6 +78276,7 @@ zwergenstadt.com##+js(aeld, load, onload)
 ||greeshoatsaun.net^
 ||greeter.me^
 ||greeterstaniel.com^
+||greetingsdaydreamlitre.com^
 ||greewepi.net^
 ||greewepi.net^$popup
 ||grefutiwhe.com^
@@ -78139,6 +78304,7 @@ zwergenstadt.com##+js(aeld, load, onload)
 ||grfz.de^$third-party
 ||grgmccdqjvtea.store^
 ||grgnsht.nzxt.com^
+||grhgqgugnzmz.com^
 ||grhkaddhnauqi.space^
 ||grhuxlpoyopyd.website^
 ||gricechupon.top^
@@ -78434,6 +78600,7 @@ zwergenstadt.com##+js(aeld, load, onload)
 ||gtthvpzlnmueh.store^
 ||gtubumgalb.com^
 ||gtucpejt.com^
+||gtuetxpyzuaeg.website^
 ||gtusaexrlpab.world^
 ||gtyjpiobza.com^
 ||gtzpic.opodo.co.uk^
@@ -78461,6 +78628,7 @@ zwergenstadt.com##+js(aeld, load, onload)
 ||guatusosaliant.digital^
 ||gubagoo.com/modules/tracking/
 ||gubagoo.io/c/$image
+||gubgdbkvmumnlk.com^
 ||gubjsmpqnakpv.com^
 ||guchihyfa.pro^
 ||guckoash.net^
@@ -78596,6 +78764,7 @@ zwergenstadt.com##+js(aeld, load, onload)
 ||guzzlealibied.cyou^
 ||gvcaffiliates.com^$popup
 ||gvdamage.world^
+||gvddigvuowtm.com^
 ||gvdjmcztiqwhw.website^
 ||gvdqzy.milanoo.com^
 ||gvfbpo.diafer.com.br^
@@ -78735,6 +78904,7 @@ zwergenstadt.com##+js(aeld, load, onload)
 ||gzlxvg.papy.co.jp^
 ||gzomkammcqj.com^
 ||gzqihxnfhq.com^
+||gzslhnszxh.com^
 ||gzwufmhnyvbxi.store^
 ||gzxndiiqkcpgt.space^
 ||gzxssgwuyksxo.store^
@@ -78860,6 +79030,7 @@ zwergenstadt.com##+js(aeld, load, onload)
 ||hamanharelip.cfd^
 ||hamatakulack.shop^
 ||hambercystic.com^
+||hambernuda.com^
 ||hambtr.unilife.co.jp^
 ||hamburger-stadtplan.com/t.gif
 ||hambwcnwo.com^
@@ -78913,6 +79084,8 @@ zwergenstadt.com##+js(aeld, load, onload)
 ||handyfield.com^
 ||handyfireman.com^
 ||handyincrease.com^
+||hangbyphrator.click^
+||hangingsope.click^
 ||hangmenpernio.top^
 ||hangoverknock.com^
 ||hangsprug.world^
@@ -79083,6 +79256,7 @@ zwergenstadt.com##+js(aeld, load, onload)
 ||hauufhgezl.com^
 ||hauwoopauy.net^
 ||hauzdj.quellogiusto.it^
+||hauzugrauwha.net^
 ||havasedge.com^$third-party
 ||haveameet.com^
 ||haveameet.com^$document
@@ -79100,6 +79274,7 @@ zwergenstadt.com##+js(aeld, load, onload)
 ||hawaktv.com/sw.js$script
 ||hawkabsurd.com^
 ||hawkergoury.top^
+||hawkerlosable.shop^
 ||hawkeysganged.cyou^
 ||hawkeysgizzard.qpon^
 ||hawkeyunsame.qpon^
@@ -79340,6 +79515,7 @@ zwergenstadt.com##+js(aeld, load, onload)
 ||hedgemincepyjamas.com^
 ||hedgesniffle.com^
 ||hedgingwillier.cfd^
+||hedwigflooredventure.com^
 ||heeboalupauweem.net^
 ||heedfulunplumb.rest^
 ||heedlessplanallusion.com^
@@ -79512,6 +79688,7 @@ zwergenstadt.com##+js(aeld, load, onload)
 ||heroesdom.com^$third-party
 ||heroespostel.top^
 ||herofherlittleboyw.com^
+||heroicfuneral.com^
 ||heroicssethite.com^
 ||heroinshavies.qpon^
 ||heroizenighty.qpon^
@@ -79620,6 +79797,7 @@ zwergenstadt.com##+js(aeld, load, onload)
 ||hfvura.noriel.ro^
 ||hfwwvtkxjuowiq.com^
 ||hfxopjqsitof.com^
+||hfyavgagbiidq.site^
 ||hg-bn.com^
 ||hgagwcznmclhv.store^
 ||hgbn.rocks^
@@ -79890,6 +80068,7 @@ zwergenstadt.com##+js(aeld, load, onload)
 ||histi.co^
 ||histoneporions.cyou^
 ||historicalbeam.com^
+||historicalinflate.com^
 ||historyactorabsolutely.com^
 ||historyactorabsolutely.com^$popup
 ||historytrade.com^
@@ -80031,6 +80210,7 @@ zwergenstadt.com##+js(aeld, load, onload)
 ||hkcmxbtmdt.com^
 ||hkcqpidtxaqkl.online^
 ||hkfwgdlnmjwwb.online^
+||hkgkuppsnxhnq.online^
 ||hkichmshwxfgz.site^
 ||hkilops.com^
 ||hkj8.evobanco.com^
@@ -80390,6 +80570,7 @@ zwergenstadt.com##+js(aeld, load, onload)
 ||hornymatches.com^*/visit.php?
 ||hornyspots.com^$third-party
 ||hornywomancrsu.com^
+||horolanytime.com^
 ||horonstogly.com^
 ||horonstogly.com^$document
 ||horoutavitamin.click^
@@ -80523,6 +80704,7 @@ zwergenstadt.com##+js(aeld, load, onload)
 ||houston-content.cresa.com^
 ||houston.advgo.net^
 ||houstonchronicle.com/413gkwMT/init.js
+||houtopeepteeli.net^
 ||houvaulauchair.net^
 ||houwastoay.net^
 ||houzz.com/hsc/aetrk/
@@ -80643,10 +80825,12 @@ zwergenstadt.com##+js(aeld, load, onload)
 ||hrbitov.viessmann.cz^
 ||hrbpark.bid^$third-party
 ||hrcpql.candymagic.jp^
+||hrdartsdtrmqu.site^
 ||hreso.site^
 ||hrhuvkhcir.com^
 ||hrihfiocc.com^
 ||hrijiqwroalg.com^
+||hrkjgepefndrh.site^
 ||hrkrchivgjase.online^
 ||hrm.healthgrades.com^
 ||hrmdw8da.net^
@@ -80794,6 +80978,7 @@ zwergenstadt.com##+js(aeld, load, onload)
 ||hudhno.jdsports.es^
 ||hudmmxrbwnbwl.fun^
 ||hudong.com/flux.js
+||hue2b.com^
 ||hue2n.com^$popup
 ||hue4c.com^$popup
 ||hueads.com^$popup
@@ -80955,6 +81140,7 @@ zwergenstadt.com##+js(aeld, load, onload)
 ||hvrieelklzlbh.website^
 ||hvrzig.e-domizil.ch^
 ||hvteqk.snowleader.com^
+||hvuhmyogteatu.site^
 ||hvuihu.undiz.com^
 ||hvukkoxr.xyz^
 ||hvvwidsyjqeppt.com^
@@ -80976,6 +81162,7 @@ zwergenstadt.com##+js(aeld, load, onload)
 ||hwpub.com^$third-party
 ||hwtkaes.cyou^
 ||hwufmoocnkha.com^
+||hwugaspawa.com^
 ||hwwjsi.aboutyou.pl^
 ||hwyytk.verabradley.com^
 ||hwyyuy.ringcentral.com^
@@ -81059,6 +81246,7 @@ zwergenstadt.com##+js(aeld, load, onload)
 ||hypochloridtilz.click^
 ||hypocrisysmallestbelieving.com^
 ||hypoidpyruwl.com^
+||hypollsteceful.com^
 ||hyqpdpkxskhao.online^
 ||hyqqtvivbqivx.site^
 ||hyrankhit.meldingcloud.com^
@@ -81291,6 +81479,7 @@ zwergenstadt.com##+js(aeld, load, onload)
 ||iconnode.com^
 ||icontact.com/icp/core/signup/tracking.gif?
 ||icorp.ro^$third-party
+||icouwxyvxifwx.online^
 ||icowhojcnqnuz.space^
 ||icslearn.actonsoftware.com^
 ||icstats.nl^$third-party
@@ -81446,6 +81635,7 @@ zwergenstadt.com##+js(aeld, load, onload)
 ||ifirsjqydbkb.com^
 ||ifjovbake.com^
 ||ifkzro.llbean.co.jp^
+||iflfnermnmnhj.space^
 ||ifmxhabbjpjrm.website^
 ||ifnnrpduqbdsv.website^
 ||ifnyop.priceline.com^
@@ -81505,6 +81695,7 @@ zwergenstadt.com##+js(aeld, load, onload)
 ||ignitedceriman.qpon^
 ||ignitorkneecap.shop^$popup
 ||ignoblerectifymargaret.com^
+||ignorantdamage.pro^
 ||ignorantquarter.pro^
 ||ignore.hot-bbw-tube.com^
 ||ignoresfahlerz.com^
@@ -82711,6 +82902,7 @@ zwergenstadt.com##+js(aeld, load, onload)
 ||indoleads.com^$third-party
 ||indolentoutcome.com^
 ||indooritalian.com^
+||indoorsscoldbail.com^
 ||indor.site^
 ||indpagurus.world^
 ||indriwhats.com^
@@ -83824,6 +84016,7 @@ zwergenstadt.com##+js(aeld, load, onload)
 ||instadia.net^$third-party
 ||instaflrt.com^
 ||instagram.com/ajax/bz
+||instagram.com/ajax/qm/?
 ||instagram.com/api/v1/injected_story_units/
 ||instagram.com/logging/
 ||instagram.com/logging_client_events
@@ -84150,6 +84343,7 @@ zwergenstadt.com##+js(aeld, load, onload)
 ||involve.asia^$third-party
 ||involvementvindictive.com^
 ||inwardabruptly.com^
+||inwfnroixy.com^
 ||inx-corp.actonservice.com^
 ||inxgfxylzkkgi.one^
 ||inxxx.com/api/get-spot/
@@ -84221,6 +84415,7 @@ zwergenstadt.com##+js(aeld, load, onload)
 ||iotapool.com^
 ||iotechnologies.com^$third-party
 ||iotohcaxbfnzb.site^
+||iotwyxhnjyw.com^
 ||iouyechctsbmz.vip^
 ||iovation.com^$third-party
 ||iovia-pmj.com^
@@ -84446,6 +84641,7 @@ zwergenstadt.com##+js(aeld, load, onload)
 ||isbworld.aon.com^
 ||isbycgqyhsze.world^
 ||isc-tracking.eventim.com^
+||ischialherns.life^
 ||isdnoutjet.world^
 ||isebis.takamiclinic.or.jp^
 ||isebis.yutoriform.com^
@@ -84521,6 +84717,8 @@ zwergenstadt.com##+js(aeld, load, onload)
 ||isxtltbhwxud.com^
 ||isyimywasmedru.com^
 ||isyrkltomfp.com^
+||iszrrgjxekmas.website^
+||isztpjhceyoir.site^
 ||it-business.vodafone.com^
 ||it-go.experian.com^
 ||it.sharpmarketing.eu^
@@ -84629,6 +84827,7 @@ zwergenstadt.com##+js(aeld, load, onload)
 ||iubhvfjsykuvm.online^
 ||iuedtpsarlayew.com^
 ||iufbmwczokffc.click^
+||iufmhnbxvkzcy.store^
 ||iufwfajqsycomf.com^
 ||iugbhsu.com^
 ||iujeaa.menz-style.com^
@@ -84665,6 +84864,7 @@ zwergenstadt.com##+js(aeld, load, onload)
 ||ivitrack.com^$third-party
 ||ivjxnrrqawnuc.com^
 ||ivlnszjtorszh.website^
+||ivmuztuuu.com^
 ||ivmwbl.hear.com^
 ||ivnffoxutdnl.com^
 ||ivogdqjrbtsifv.com^
@@ -84726,6 +84926,7 @@ zwergenstadt.com##+js(aeld, load, onload)
 ||ixefgtkhhrfwk.store^
 ||ixereewa.com^
 ||ixfxjrbfg.com^
+||ixgyezjgpsnob.store^
 ||ixia-elq.keysight.com^
 ||ixia-lp.keysight.com^
 ||ixiaa.com^$third-party
@@ -85202,6 +85403,7 @@ zwergenstadt.com##+js(aeld, load, onload)
 ||jerriecourty.top^
 ||jerseydisplayed.com^
 ||jerust.com^
+||jervinaneback.com^
 ||jessamyacetiam.digital^
 ||jesseanritzes.shop^
 ||jestbiases.com^
@@ -85315,6 +85517,7 @@ zwergenstadt.com##+js(aeld, load, onload)
 ||jhu8u9.pro^
 ||jhuriarepile.world^
 ||jhuucwpvtlgzz.store^
+||jhuwxujtkgok.com^
 ||jhxfplpawtdxv.space^
 ||jhzwle.ryuryumall.jp^
 ||jiakihtkynvks.today^
@@ -85370,6 +85573,7 @@ zwergenstadt.com##+js(aeld, load, onload)
 ||jipvtxdxtrnsh.website^
 ||jiqiv.com^
 ||jirafe.com^$third-party
+||jiraisansezap.net^
 ||jirnxq.guud.com^
 ||jitanvlw.com^
 ||jitgibmibpayc.online^
@@ -85416,6 +85620,7 @@ zwergenstadt.com##+js(aeld, load, onload)
 ||jk4lmrf2.de^
 ||jkajyrkjmoeez.top^
 ||jkajyrkqaobjj.top^
+||jkajyrkqaokeq.top^
 ||jkajyrkqaoyjl.top^
 ||jkanime.net.iberostar.com^
 ||jkbewmebyqjmz.top^
@@ -85490,7 +85695,9 @@ zwergenstadt.com##+js(aeld, load, onload)
 ||jmt7mbwce.com^
 ||jmuhezmkgsn.com^
 ||jmvmrv.e-davidwalker.com^
+||jmwlvhxgpszt.com^
 ||jmxgwesrte.com^
+||jmxqqlgsrkkrl.online^
 ||jmyalnmmoff.com^
 ||jmyrmuozbor.com^
 ||jn23.madeindesign.ch^
@@ -85707,6 +85914,7 @@ zwergenstadt.com##+js(aeld, load, onload)
 ||journera.com^$third-party
 ||journey.cisco.com^
 ||journeyblobsjigsaw.com^
+||journeydirectsubmarine.com^
 ||journeymv.com^$third-party
 ||journeys.journeyed.com^
 ||journity.com^$third-party
@@ -85802,10 +86010,12 @@ zwergenstadt.com##+js(aeld, load, onload)
 ||jqtqoknktzy.space^
 ||jqtree.com^
 ||jqtree.com^$popup
+||jqttlnzaudopg.website^
 ||jqueryoi.com^
 ||jqueryserve.org^
 ||jqueryserver.com^
 ||jquvwrozb.com^
+||jqwjbyqawgqla.top^
 ||jqwjbyqawgzjj.top^
 ||jqyxtzjtoctnj.top^
 ||jqzibkhgthxpb.website^
@@ -85949,6 +86159,7 @@ zwergenstadt.com##+js(aeld, load, onload)
 ||jswyrt.jp1880.de^
 ||jsxxbwiagooag.online^
 ||jszwxm.hometogo.nl^
+||jszxpgqtwmdkv.site^
 ||jtbaoo.belvini.de^
 ||jtcgeriv.com^
 ||jtddmlhuc.com^
@@ -85998,6 +86209,7 @@ zwergenstadt.com##+js(aeld, load, onload)
 ||judosllyn.com^
 ||judsaiftool.net^
 ||judvl.org^
+||juecesseaming.shop^
 ||jufbcunisak.com^
 ||jufhxk.audienhearing.com^
 ||jufmgsnsjjcpk.site^
@@ -86161,6 +86373,7 @@ zwergenstadt.com##+js(aeld, load, onload)
 ||jwpltx.com^
 ||jwqmdmojuzeex.online^
 ||jwqvnbzxwiibj.one^
+||jwraxixytrvwm.site^
 ||jwskgkxnwdivg.online^
 ||jwtnmo.promovacances.com^
 ||jwuazngiqap.com^
@@ -86199,6 +86412,7 @@ zwergenstadt.com##+js(aeld, load, onload)
 ||jybnuw.mudah.my^
 ||jycrjkuspyv.fun^
 ||jyczddycqnckw.store^
+||jyeratfdlomnw.online^
 ||jygotubvpyguak.com^
 ||jygvbyvwzbjma.top^
 ||jygvbyvwzbwbk.top^
@@ -86529,6 +86743,7 @@ zwergenstadt.com##+js(aeld, load, onload)
 ||kcgkiumubea.com^
 ||kcgqumopgkwtv.online^
 ||kcgser.azialo.com^
+||kchhccjmzipel.site^
 ||kcigrnwgtykau.com^
 ||kcjmivforjixu.online^
 ||kcjyjtungjlpbir.com^
@@ -86588,6 +86803,7 @@ zwergenstadt.com##+js(aeld, load, onload)
 ||keefoocauby.com^$popup
 ||keegeebuglee.net^
 ||keegoagrauptach.net^
+||keekerwrongdo.com^
 ||keeledlabrid.world^
 ||keelietamis.shop^
 ||keen.io^$third-party,domain=~keen.github.io|~keen.io
@@ -86737,6 +86953,7 @@ zwergenstadt.com##+js(aeld, load, onload)
 ||kftgzmjqxjooc.store^
 ||kfwolwopegike.love^
 ||kfxcbuhnempdct.com^
+||kfzfkkxcpiz.com^
 ||kgakynwqllvbg.top^
 ||kgakynwqllvwo.top^
 ||kgbokc.masrefacciones.mx^
@@ -86763,6 +86980,7 @@ zwergenstadt.com##+js(aeld, load, onload)
 ||kgrdxllwloebc.site^
 ||kgruphurl.world^
 ||kgutiokknx.com^
+||kgvqalwbokgq.top^
 ||kgvqalwbomgm.top^
 ||kgvqalwbomvb.top^
 ||kgvsbjisp.com^
@@ -86912,6 +87130,7 @@ zwergenstadt.com##+js(aeld, load, onload)
 ||kirtookroaz.net^
 ||kirujh.com^
 ||kirujh.com^$popup
+||kisaighairda.net^
 ||kishkethingum.shop^
 ||kismetprod.life^
 ||kissagepurrah.qpon^
@@ -86960,6 +87179,7 @@ zwergenstadt.com##+js(aeld, load, onload)
 ||kjbqbgzabyyag.top^
 ||kjbqbgzabyylo.top^
 ||kjdfho.eidaihouse.com^
+||kjgejeteyjbrz.site^
 ||kjgmieedgzswz.website^
 ||kjgnidnhlxugm.icu^
 ||kjittdqyayyoq.store^
@@ -87087,9 +87307,11 @@ zwergenstadt.com##+js(aeld, load, onload)
 ||km-sea.net^$third-party
 ||km.rightanswers.com^
 ||kmbjerbaafdn.global^
+||kmblynalgqamq.top^
 ||kmblynalgqanb.top^
 ||kmdbbgocafhvt.com^
 ||kmdlkanc.com^
+||kmfjsdldlnexpu.com^
 ||kmfkiwghhe.xyz^
 ||kmggmylakjko.top^
 ||kmggmylaklog.top^
@@ -87254,6 +87476,7 @@ zwergenstadt.com##+js(aeld, load, onload)
 ||kokilavandal.digital^
 ||kokos.click^$third-party
 ||kokotrokot.com^
+||kolaiwoaphoust.net^
 ||kolapoompup.net^
 ||kolerevprivatedqu.com^
 ||koleyo.xyz^
@@ -87327,6 +87550,7 @@ zwergenstadt.com##+js(aeld, load, onload)
 ||kotzzdwl.com^
 ||koubeepsoubavo.net^
 ||kouboanokuluthi.com^
+||kouhojejou.net^
 ||koujvrvehbyqedi.com^
 ||kouopt.calvinklein.com.br^
 ||kouphoudoagraup.com^
@@ -87461,6 +87685,7 @@ zwergenstadt.com##+js(aeld, load, onload)
 ||kta.etherscan.com^
 ||ktbptyeetdibww.com^
 ||ktdcoy.lyst.it^
+||kteawsjm.com^
 ||kteijufcgishj.store^
 ||kteopzgukl.com^
 ||kthivdrtzvcab.online^
@@ -88030,6 +88255,7 @@ zwergenstadt.com##+js(aeld, load, onload)
 ||lanesusanne.com^$popup
 ||langcadookit.top^
 ||langrauoz.xyz^
+||languishbrook.com^
 ||languishcharmingwidely.com^
 ||lanistaconcepts.com^$third-party
 ||lanknewcomer.com^
@@ -88057,6 +88283,7 @@ zwergenstadt.com##+js(aeld, load, onload)
 ||laplink.actonservice.com^
 ||laposte.fr/cdp/events?
 ||lappmoliz.com^
+||lapqigwuzasp.com^
 ||lapresse.ca/webparts/ads/
 ||lapsebreak.com^
 ||lapsestwiggy.top^
@@ -88312,6 +88539,7 @@ zwergenstadt.com##+js(aeld, load, onload)
 ||ldnlyap.com^
 ||ldorlv.seiban.co.jp^
 ||ldqlbzuhjovtd.website^
+||ldqsoiynsqiix.website^
 ||ldqtdd.peing.net^
 ||ldscxvbgahtdh.online^
 ||ldsglxilxmczr.site^
@@ -88401,6 +88629,7 @@ zwergenstadt.com##+js(aeld, load, onload)
 ||leakvideos.online^
 ||leamamongthe.org^
 ||leamemotive.cyou^
+||leanglesab.world^
 ||leanishquasses.qpon^
 ||leanplum.com^$third-party
 ||leapcompatriotjangle.com^
@@ -88714,6 +88943,7 @@ zwergenstadt.com##+js(aeld, load, onload)
 ||lexicoggeegaw.website^
 ||lexity.com^$third-party
 ||lexlime.top^
+||lexolbuvjhmau.online^
 ||lexology.com/pd.js
 ||lexozfldkklgvc.com^$3p
 ||lexpress.fr/pf/resources/js/piano-analytics-
@@ -88840,6 +89070,7 @@ zwergenstadt.com##+js(aeld, load, onload)
 ||libertyhomeequity.actonservice.com^
 ||libertystmedia.com^
 ||libertystmedia.com^$popup
+||libgetkell.world^
 ||libhunt.com/api/ahoy/event
 ||libidosdegass.shop^
 ||libkinanorak.digital^
@@ -88939,6 +89170,7 @@ zwergenstadt.com##+js(aeld, load, onload)
 ||lihmnebydaizl.site^
 ||lihqutwoiumpd.top^
 ||lihshailmyjzb.space^
+||liiliwqyo.com^
 ||lijaztozg.com^
 ||lijit.com^$third-party
 ||lijjk.space^
@@ -89976,6 +90208,7 @@ zwergenstadt.com##+js(aeld, load, onload)
 ||liosix.mtvuutiset.fi^
 ||liphicafo.com^
 ||lipidicchaoush.com^
+||lipidscrafts.digital^
 ||lipomaflyball.shop^
 ||liposisoperla.life^
 ||lippclfsjjvwd.com^
@@ -89991,6 +90224,7 @@ zwergenstadt.com##+js(aeld, load, onload)
 ||liquipedia.net/stats/
 ||liqwid.net^$third-party
 ||liracdn.com^
+||lirateremoved.com^
 ||lireadzwxtrbh.space^
 ||lirotblickey.cyou^
 ||lispaircraftcraziness.com^
@@ -90194,6 +90428,7 @@ zwergenstadt.com##+js(aeld, load, onload)
 ||lkibtkagrmvdi.website^
 ||lkixinoql.com^
 ||lkj23jlkajsa.realestate.help^
+||lkkvxotzfypif.space^
 ||lklkxqconwqpt.online^
 ||lkluoz.saraceniwines.com^
 ||lknqfn.furla.com^
@@ -90228,6 +90463,7 @@ zwergenstadt.com##+js(aeld, load, onload)
 ||lljwoshsopmoq.online^
 ||llkdiu.chacos.com^
 ||llkhskddtowp.com^
+||llnakdvnqoghu.site^
 ||llntrack.messe-duesseldorf.de^
 ||llolmwnalzjzj.top^
 ||llolmwnalzobw.top^
@@ -90310,6 +90546,7 @@ zwergenstadt.com##+js(aeld, load, onload)
 ||lmqvowejajaqj.top^
 ||lmqvowejalyqm.top^
 ||lms.roblox.com^
+||lmstciyqyn.com^
 ||lmsukdmymagqfb.com^
 ||lmtonline.com/413gkwMT/init.js
 ||lmukstyn.xyz^
@@ -90433,6 +90670,7 @@ zwergenstadt.com##+js(aeld, load, onload)
 ||lockupaccede.com^
 ||lockuplookup.com^
 ||lockview.cn^$third-party
+||locoesferrara.qpon^
 ||locooler-ageneral.com^
 ||locooler-ageneral.com^$document
 ||locooler-ageneral.com^$popup
@@ -90628,6 +90866,7 @@ zwergenstadt.com##+js(aeld, load, onload)
 ||lolco.net^
 ||lolhentai.net/cornergirls.js
 ||lolhentai.net/tceb29242cf7.js
+||lolithon.nl/affiliates/
 ||lolreemsaitovo.net^
 ||lolsefti.com^
 ||lolwot.com/B5xaqzSGvMTM.js
@@ -91040,6 +91279,7 @@ zwergenstadt.com##+js(aeld, load, onload)
 ||lqepkvudjwgwn.space^
 ||lqgenuq-j.life^
 ||lqjfhehcrkatj.xyz^
+||lqkkoozmakakk.top^
 ||lqkkoozmakazq.top^
 ||lqklml.amikado.com^
 ||lqllisdlizrix.site^
@@ -91226,6 +91466,7 @@ zwergenstadt.com##+js(aeld, load, onload)
 ||lulavcymbium.shop^
 ||lulavimtactive.rest^
 ||lulhytnnulroggd.com^
+||lulkckpzirebi.space^
 ||lullabybeneath.com^
 ||lullfork.com^
 ||lumaktoys.com^
@@ -91399,6 +91640,7 @@ zwergenstadt.com##+js(aeld, load, onload)
 ||lwbjbbnbnvvyz.top^
 ||lwcwpryif.xyz^
 ||lwczvqgvz.com^
+||lwdblrksolqvt.store^
 ||lwdfqzckybcsl.online^
 ||lwecmzkeqjyag.online^
 ||lwgadm.com^
@@ -91433,6 +91675,7 @@ zwergenstadt.com##+js(aeld, load, onload)
 ||lwxjg.com^$third-party
 ||lwxuo.com^
 ||lwzygjmawqana.top^
+||lwzygjmawqnjg.top^
 ||lwzzgwonlrvgr.site^
 ||lx2rv.com^
 ||lxeamwnhcxb.xyz^
@@ -91536,6 +91779,7 @@ zwergenstadt.com##+js(aeld, load, onload)
 ||lywasnothycanty.info^$popup
 ||lywglywnloka.top^
 ||lywglywnlovz.top^
+||lywglywnlwvg.top^
 ||lyxfra.shopee.com.my^
 ||lyypsy.unisportstore.se^
 ||lyyqmwzymyqqw.top^
@@ -92196,7 +92440,9 @@ zwergenstadt.com##+js(aeld, load, onload)
 ||maredpt.com^$popup
 ||marfeel.com^$third-party
 ||margaritapowerclang.com^
+||margaritawanderingelusive.com^
 ||marginjavgg124.fun^
+||margive.com^
 ||margotfoehn.cfd^
 ||mariadock.com^
 ||marial.pro^
@@ -93745,6 +93991,7 @@ zwergenstadt.com##+js(aeld, load, onload)
 ||marriedvalue.com^
 ||marrowleaves.com^
 ||marrvelousgirl.com^
+||mars1st.baby^
 ||marsabkar.shop^
 ||marsads.com^$third-party
 ||marsflag.com/mf2file/site/ext/tr.js
@@ -94085,6 +94332,7 @@ zwergenstadt.com##+js(aeld, load, onload)
 ||mcfstats.com^$popup
 ||mcgengegvbodx.online^
 ||mcgo2.com^
+||mcheyadqlxjja.space^
 ||mchtna.fashionplus.co.kr^
 ||mciymtdlsatav.world^
 ||mcizas.com^
@@ -94323,6 +94571,7 @@ zwergenstadt.com##+js(aeld, load, onload)
 ||mechanicladenthereby.com^
 ||meconinmarge.shop^
 ||mecoxdcdexemf.store^
+||mecujducokfzp.space^
 ||med.androderm.com^
 ||med.aptalispharma.com^
 ||med.armourthyroid.com^
@@ -94692,6 +94941,7 @@ zwergenstadt.com##+js(aeld, load, onload)
 ||mepirtedic.com^$third-party
 ||mepkbonqzmuvl.xyz^
 ||meptuphinicmugi.com^
+||mepuqmjfjcwhu.store^
 ||mepuyu.xyz^
 ||mepyjishu.pro^
 ||mer.stdout.cz^
@@ -96442,6 +96692,7 @@ zwergenstadt.com##+js(aeld, load, onload)
 ||mhinvest.actonservice.com^
 ||mhizzr.eurorelais.nl^
 ||mhjpxihovyjwti.com^
+||mhkbngkmftalkrg.com^
 ||mhlezkarznvwe.site^
 ||mhljfarbnhppeb.com^
 ||mhmp.bruker.com^
@@ -96449,6 +96700,7 @@ zwergenstadt.com##+js(aeld, load, onload)
 ||mhnpec.nimaxi-online.com^
 ||mhojhjsgzcwmft.com^
 ||mholland.net.anwalt.de^
+||mhorrsecured.click^
 ||mhosspawny.shop^
 ||mhqxzzklfxqdt.website^
 ||mhrkxi.thetrybe.com.au^
@@ -96586,6 +96838,7 @@ zwergenstadt.com##+js(aeld, load, onload)
 ||milnhghbwgyco.site^
 ||milseycurly.com^
 ||miltlametta.com^
+||miltsurgency.help^
 ||miluwo.com^
 ||mimakiusa.actonservice.com^
 ||mimamsaslews.com^
@@ -96737,6 +96990,7 @@ zwergenstadt.com##+js(aeld, load, onload)
 ||mistletoeethicleak.com^
 ||mistletoejobless.com^
 ||mistralwringle.top^
+||mistresscoat.com^
 ||misty-eyed.boats^
 ||mistydeposit.pro^
 ||mistyhorizon.com^
@@ -96899,6 +97153,7 @@ zwergenstadt.com##+js(aeld, load, onload)
 ||mkto-*.com^$third-party
 ||mktoresp.com^$third-party
 ||mkwntx.pinkpanda.de^
+||mkybbjaracrvh.online^
 ||mkysuerau.com^
 ||mkzpqu.sungboon.com^
 ||mkztpk.invictastores.com^
@@ -96939,6 +97194,7 @@ zwergenstadt.com##+js(aeld, load, onload)
 ||mlqcixbbgdwij.online^
 ||mlqzau.koffer.com^
 ||mlsys.xyz^
+||mltcjpntxktjz.store^
 ||mluszz.eyelashgarage.jp^
 ||mlweb.dmlab.hu^
 ||mm-api.agency^
@@ -97000,6 +97256,7 @@ zwergenstadt.com##+js(aeld, load, onload)
 ||mnbvjhg.com^
 ||mnbvpo8trk.com^
 ||mnbyto.goo-net.com^
+||mncbqobkfv.com^
 ||mncvjhg.com^
 ||mndlvr.com^
 ||mndlvr.com^$document
@@ -97325,6 +97582,7 @@ zwergenstadt.com##+js(aeld, load, onload)
 ||montafp.top^
 ||montangop.top^
 ||montelena.auction.co.kr^
+||monthdisembroildisembroilhenrietta.com^
 ||monthfour0225.xyz^
 ||monthlyhat.com^
 ||monthlypatient.com^
@@ -97588,6 +97846,7 @@ zwergenstadt.com##+js(aeld, load, onload)
 ||mpbrz.com^
 ||mpc-co.actonservice.com^
 ||mpceiepudcecj.com^
+||mpfgnmfw.com^
 ||mpgh.net/idsx2/
 ||mpglie.apartmentguide.com^
 ||mpgnodally.qpon^
@@ -97724,6 +97983,7 @@ zwergenstadt.com##+js(aeld, load, onload)
 ||msafoy.eyebuydirect.com^
 ||msahkvsawptgom.com^
 ||msbainfo.fbe.hku.hk^
+||msbnmxmbjgchc.space^
 ||msboul.gruenwelt.de^
 ||mscoldnesfspu.org^
 ||msdoj.com^
@@ -97816,6 +98076,7 @@ zwergenstadt.com##+js(aeld, load, onload)
 ||mthcplolzrszh.online^
 ||mtkgyrzfygdh.com^
 ||mtkure.gazin.com.br^
+||mtm.bondagevalley.cc^
 ||mtm.qdqmedia.com
 ||mtnkeext.xyz^
 ||mtnukovxnnwjc.website^
@@ -98023,6 +98284,7 @@ zwergenstadt.com##+js(aeld, load, onload)
 ||muteknife.com^
 ||mutemailbox.com^
 ||mutenessdollyheadlong.com^
+||mutenessquiz.com^
 ||mutesarsino.shop^
 ||muthwhcjuwela.store^
 ||mutinycdn.com^$third-party
@@ -98041,6 +98303,7 @@ zwergenstadt.com##+js(aeld, load, onload)
 ||muzarabeponym.website^
 ||muzikguide.com^
 ||muzjiksnewari.shop^
+||muzjikspanman.com^
 ||muzzlequick.com^
 ||mv.treehousei.com^
 ||mva1.maeva.com^
@@ -98061,6 +98324,7 @@ zwergenstadt.com##+js(aeld, load, onload)
 ||mvpffsgcpoug.com^
 ||mvryyxvwtb.com^
 ||mvtracker.com^$third-party
+||mvugvtzbonlik.website^
 ||mvuvpwcm.com^
 ||mvvlsvwtgoxlj.space^
 ||mvyeirpipobhxpr.com^
@@ -98116,6 +98380,7 @@ zwergenstadt.com##+js(aeld, load, onload)
 ||mxizhhtvliooa.website^
 ||mxjitbllqcxli.store^
 ||mxjwznfcryxli.life^
+||mxlun.com^
 ||mxmfb.com/rsps/img/
 ||mxmkitchen.com/in/pcl/track.php
 ||mxmwqo.biosante.com.br^
@@ -98720,10 +98985,12 @@ zwergenstadt.com##+js(aeld, load, onload)
 ||nbo-protect.pro^$popup
 ||nboclympics.com^
 ||nbohze.thenorthface.ru^
+||nboqiirlmupnf.online^
 ||nbottkauyy.com^
 ||nbpguujusd.com^
 ||nbrngg.rinkaiseminar.co.jp^
 ||nbvwuizhmmgtb.online^
+||nbxcijnlqfrbd.website^
 ||nbyggk.jocee.jp^
 ||ncadvertiser.com/413gkwMT/init.js
 ||ncaudienceexchange.com^$third-party
@@ -99474,6 +99741,7 @@ zwergenstadt.com##+js(aeld, load, onload)
 ||nigrocosti.com^
 ||nigroopheert.com^$popup
 ||nihaldhurrie.help^
+||nijanghwya.com^
 ||nijaultuweftie.net^
 ||nijlqrhkarnbq.online^
 ||nijopvohmbiz.com^
@@ -99487,6 +99755,7 @@ zwergenstadt.com##+js(aeld, load, onload)
 ||nile.works/TargetingWebAPP/
 ||nile.works/api/save-perf?
 ||nilgauvirgate.rest^
+||nillsfoggier.digital^
 ||niltelreekrofik.net^
 ||nimbicanduc.help^
 ||nimble-wine.com^
@@ -99545,6 +99814,7 @@ zwergenstadt.com##+js(aeld, load, onload)
 ||nitropay.com^$third-party
 ||nitroscripts.com^$script,domain=pcguide.com
 ||nitroscripts.com^$script,domain=wepc.com
+||nitroscripts.com^$third-party
 ||nitrous-analytics.s3.amazonaws.com^
 ||niuneujrvefqb.website^
 ||nius.de/monitoring
@@ -99661,7 +99931,9 @@ zwergenstadt.com##+js(aeld, load, onload)
 ||nncdtquddmjjb.site^
 ||nncffyilavlup.com^
 ||nncistcbohnbt.com^
+||nndrvatp.com^
 ||nnerventualkentin.org^
+||nnffiadgg.com^
 ||nngdvlfmenmeqe.com^
 ||nnhghmknpmph.xyz^
 ||nnhxjd.zielonalazienka.pl^
@@ -99673,6 +99945,7 @@ zwergenstadt.com##+js(aeld, load, onload)
 ||nnlnoklsrwbuljf.com^
 ||nnobek.waschbaer.de^
 ||nnofmj.studiof.com.co^
+||nnoulqmhxrskm.store^
 ||nnowa.com^
 ||nnqyed.laredoute.be^
 ||nnrtpxyloosvrc.com^
@@ -100190,6 +100463,7 @@ zwergenstadt.com##+js(aeld, load, onload)
 ||nsxhkrtaewfns.com^
 ||nszbiwxorynnf.xyz^
 ||ntativesathyasesum.com^
+||ntcuixre.com^
 ||ntdhfhpr-o.rocks^
 ||ntedbycathyhou.com^
 ||ntent.com^$third-party
@@ -100853,6 +101127,7 @@ zwergenstadt.com##+js(aeld, load, onload)
 ||octaneai.com^*/utrk
 ||octaneblood.com^
 ||octanmystes.com^
+||octaplagaius.shop^
 ||octavius.rocks^$third-party
 ||octo25.me^
 ||octoads.shop^
@@ -101059,6 +101334,7 @@ zwergenstadt.com##+js(aeld, load, onload)
 ||ofhisladyloveheh.com^
 ||ofhypnoer.com^
 ||ofhzqxpfhusrw.website^
+||ofiftihaigny.net^
 ||ofjxfukjzgnqo.space^
 ||ofklefkian.com^
 ||ofkqiy.knowfashionstyle.com^
@@ -101086,6 +101362,7 @@ zwergenstadt.com##+js(aeld, load, onload)
 ||oftqkeovq.com^
 ||oftrajhaqnis.com^
 ||ofvosb.jumbo.com.tr^
+||ofwbquwflsahm.online^
 ||ofwdvh.suntransfers.com^
 ||ofxbxiqadouwo.space^
 ||ofxvhxsanqpw.com^
@@ -101391,6 +101668,7 @@ zwergenstadt.com##+js(aeld, load, onload)
 ||olpmni.acer.com^
 ||olq18dx1t.com^
 ||olqhjauxeibo.xyz^
+||olqkoamjyanon.top^
 ||olqsty.izipizi.com^
 ||olroyk.ardene.com^
 ||olspyo.laredoute.co.uk^
@@ -101970,10 +102248,12 @@ zwergenstadt.com##+js(aeld, load, onload)
 ||ontraport.com/tracking.js
 ||ontrklnk.com^
 ||ontrklnk.com^$popup
+||ontvkrsjvjgo.com^
 ||ontxgr.hofer-reisen.at^
 ||onvictinitor.com^
 ||onvid.*/sw.js$script
 ||onwardperishvaluables.com^
+||onwardsikat.life^
 ||onwasrv.com^
 ||onwgnrgbcozvl.store^
 ||onxcciarjon.com^
@@ -102220,6 +102500,7 @@ zwergenstadt.com##+js(aeld, load, onload)
 ||oproi.com^$third-party
 ||ops.sunpowercorp.com^
 ||opsinstilting.shop^
+||opskiwzwtvfic.store^
 ||opskln.com^$popup
 ||opsoobeezouwe.com^
 ||opsoomet.net^
@@ -102373,6 +102654,7 @@ zwergenstadt.com##+js(aeld, load, onload)
 ||ordisposableado.com^
 ||ordniwvmx.com^
 ||ordpmx.victorianplumbing.co.uk^
+||oregonremue.world^
 ||oregonstate.actonservice.com^
 ||orendaannulli.world^
 ||orepassport.com^
@@ -102457,6 +102739,7 @@ zwergenstadt.com##+js(aeld, load, onload)
 ||orpnoornpctk.com^
 ||orpoikxbbczi.com^
 ||orqkijzk.com^
+||orqlzuoqgad.com^
 ||orqrdm.com^
 ||orquideassp.com^
 ||orrhoidlila.qpon^
@@ -102654,6 +102937,7 @@ zwergenstadt.com##+js(aeld, load, onload)
 ||otherwallowssheh.com^
 ||otherwiserustyvenomous.com^
 ||othisf.tagomago.pl^
+||othmanybagging.com^
 ||othniqvu.com^
 ||othocgkugdu.com^
 ||otieu.com^
@@ -102777,6 +103061,7 @@ zwergenstadt.com##+js(aeld, load, onload)
 ||ouo.io/js/*.js?
 ||ouo.io/js/pop.
 ||ouo.press/js/pop.
+||ouo.press/js/pop.f
 ||ouoxrvigpweth.store^
 ||oupaumul.net^
 ||oupgcgnevtqjm.site^
@@ -102966,6 +103251,7 @@ zwergenstadt.com##+js(aeld, load, onload)
 ||overfixhater.top/cuid/
 ||overfixhater.top^
 ||overfxdyqgwvr.space^
+||overhiescudder.qpon^
 ||overjoyeddarkenedrecord.com^
 ||overjoyedtempfig.com^
 ||overkick.com^
@@ -103000,6 +103286,7 @@ zwergenstadt.com##+js(aeld, load, onload)
 ||overtrapinchchan.net^
 ||overture.com^
 ||ovgohkmh.com^
+||ovgpljyqpochn.store^
 ||ovhtuompscqaq.website^
 ||ovid.*/sw.js$script,1p
 ||ovineatomerg.digital^
@@ -103091,6 +103378,7 @@ zwergenstadt.com##+js(aeld, load, onload)
 ||owvhheaq.com^
 ||owvjiwgundc.com^
 ||owvobdogd.com^
+||owwirzikteowa.online^
 ||owwmbcdlguyke.store^
 ||owxxcdgbhhcb.com^
 ||owzmdz.glamira.co.uk^
@@ -103335,6 +103623,7 @@ zwergenstadt.com##+js(aeld, load, onload)
 ||paddle.com^*/analytics.js
 ||paddlefidget.com^
 ||paddlemenu.com^
+||padreedoulreeh.net^
 ||padsabs.com^
 ||padsans.com^
 ||padsatz.com^
@@ -103860,6 +104149,7 @@ zwergenstadt.com##+js(aeld, load, onload)
 ||patsincerelyswing.com^
 ||patsyfactorygallery.com^
 ||patsypropose.com^
+||patteclothy.world^
 ||pattedearnestly.com^
 ||patterrope.click^
 ||pattwyda.com^
@@ -104142,6 +104432,7 @@ zwergenstadt.com##+js(aeld, load, onload)
 ||pedalerplumous.digital^
 ||pedangaishons.com^
 ||pedantehuitre.shop^
+||peddledprigman.com^
 ||pedesesboronia.world^
 ||pedetesgoes.click^
 ||pedeticinnet.com^
@@ -104431,6 +104722,7 @@ zwergenstadt.com##+js(aeld, load, onload)
 ||petrolgraphcredibility.com^
 ||petrolplaza.net/AdServer/
 ||pets.channeladvisor.com^
+||petsoadepsoa.net^
 ||petulanthamsterunless.com^
 ||peukasrsihavele.org^
 ||pevftg.shopee.sg^
@@ -104474,11 +104766,13 @@ zwergenstadt.com##+js(aeld, load, onload)
 ||pfuxksjzeccih.top^
 ||pfuyhr.schutz.com.br^
 ||pfxdouanes.shop^
+||pfxzacukp.com^
 ||pfytpzssrhyah.website^
 ||pg.totaaltv.nl/api/metrics
 ||pgammedia.com^$third-party
 ||pgazaz.icu^
 ||pgctnpywh.com^
+||pgdudllfjgeyy.online^
 ||pgfuteecjuqsfcu.com^
 ||pggheklolm.xyz^
 ||pggzlqoefgycx.store^
@@ -104528,8 +104822,10 @@ zwergenstadt.com##+js(aeld, load, onload)
 ||phasiccynical.help^
 ||phasmidaiawong.top^
 ||phastoag.com^
+||phaticlamias.rest^
 ||phaulsomtounel.com^
 ||phaunsomte.net^
+||phauphadreep.net^
 ||phauthunourto.net^
 ||phazashabu.pro^$document
 ||phbnix.rocelec.com^
@@ -104779,6 +105075,7 @@ zwergenstadt.com##+js(aeld, load, onload)
 ||pikyrevered.help^
 ||pilafcres.qpon^
 ||pilarywelkin.top^
+||pilchkariti.cfd^
 ||pileatesauld.top^
 ||pileevery.com^
 ||pilespaua.com^
@@ -105088,6 +105385,7 @@ zwergenstadt.com##+js(aeld, load, onload)
 ||pjh7.us.chantelle.com^
 ||pji.nu/libs/pjpixel/
 ||pjiijynaari.xyz^
+||pjiixsjrzigen.site^
 ||pjjpp.com^
 ||pjmknmuo.food^
 ||pjmryh.zapatos.es^
@@ -105241,6 +105539,7 @@ zwergenstadt.com##+js(aeld, load, onload)
 ||platformsolutions.shutterstock.com^
 ||platformsrat.com^
 ||platinumsnatchable.com^
+||platitudesingemulate.com^
 ||platooncombinedborrowed.com^
 ||platsbhima.shop^
 ||platterlokshen.shop^
@@ -105583,6 +105882,7 @@ zwergenstadt.com##+js(aeld, load, onload)
 ||pluto.smallpdf.com^
 ||plutonium.cointelegraph.com^
 ||plutothejewel.com^
+||pluzhybovatzz.com^
 ||plv.geocomply.com^
 ||plvwyoed.com^
 ||plwfwc.teknozone.it^
@@ -105609,6 +105909,7 @@ zwergenstadt.com##+js(aeld, load, onload)
 ||pm14.com^$third-party
 ||pmazpg.legalzoom.com^
 ||pmbox.biz^$third-party
+||pmbwvvhzrccxm.com^
 ||pmc1201.com^
 ||pmdipads-a.akamaihd.net^$media,redirect=noopmp3-0.1s
 ||pmfqvgxsywccw.space^
@@ -105931,6 +106232,7 @@ zwergenstadt.com##+js(aeld, load, onload)
 ||popped.biz^$popup
 ||poppedundone.com^
 ||popplantation.com^
+||popplevolt.shop^
 ||poppysol.com^
 ||poprtb.com^
 ||popsads.net^
@@ -105976,6 +106278,7 @@ zwergenstadt.com##+js(aeld, load, onload)
 ||porailbond.com^
 ||porbzpfmverzb.today^
 ||porchmy.com^
+||porculaworkman.cfd^
 ||porellasnoose.top^
 ||porikatha.com^
 ||porismkanjis.top^
@@ -106188,6 +106491,7 @@ zwergenstadt.com##+js(aeld, load, onload)
 ||potterphotographic.com^
 ||pottierneronic.top^
 ||pottledmate.life^
+||pottpleases.shop^
 ||pottyosmunda.rest^
 ||potwm.com^
 ||pouchedathelia.com^
@@ -106529,6 +106833,7 @@ zwergenstadt.com##+js(aeld, load, onload)
 ||prettypermission.pro^
 ||prettytube.net^$third-party
 ||prevailcocoyam.shop^
+||prevailharewandering.com^
 ||prevalentclogoversight.com^
 ||preventreversion.com^
 ||preview.fi-institutional.com.au^
@@ -107315,6 +107620,7 @@ zwergenstadt.com##+js(aeld, load, onload)
 ||ptoagnoovudsuh.net^
 ||ptoakrok.net^$popup
 ||ptoaksauseegh.net^
+||ptoamsitholrexo.net^
 ||ptoftashulsee.com^
 ||ptoftashulsee.com^$popup
 ||ptomw.com^
@@ -107329,6 +107635,7 @@ zwergenstadt.com##+js(aeld, load, onload)
 ||ptoovoognairti.net^
 ||ptopseempushoa.net^
 ||ptoptaglyphi.com^
+||ptoufourtourish.net^
 ||ptougeegnep.net^
 ||ptouglaiksiky.net^
 ||ptoulraiph.net^
@@ -107471,6 +107778,7 @@ zwergenstadt.com##+js(aeld, load, onload)
 ||puddingupheaps.com^
 ||pudentwoesome.shop^
 ||pudgygob.world^
+||pudijoghimtoo.net^
 ||puelcheschlump.rest^
 ||pufabanyl.com^
 ||puffinskauris.help^
@@ -107801,6 +108109,7 @@ zwergenstadt.com##+js(aeld, load, onload)
 ||puxajggibaw.com^
 ||puxmumxkjxdmju.com^
 ||puxokvda.com^
+||puxyharmful.cfd^
 ||puyjjq.com^
 ||puysis.com^
 ||puyyyifbmdh.com^
@@ -107922,6 +108231,7 @@ zwergenstadt.com##+js(aeld, load, onload)
 ||pylajilting.help^
 ||pylmffbimiurq.online^
 ||pylon.micstatic.com^
+||pylqeypkcxzka.site^
 ||pymx5.com^$third-party
 ||pynhtpjgflnph.online^
 ||pyocyteterrets.qpon^
@@ -108026,6 +108336,7 @@ zwergenstadt.com##+js(aeld, load, onload)
 ||qanqizywghyna.xyz^
 ||qaocobyvdsjhy.com^
 ||qaolczdbfnsec.online^
+||qaoydgko.xyz^
 ||qapdututycwyj.store^
 ||qaqaiyvbmuilh.site^
 ||qaqhmmyex.com^
@@ -108070,6 +108381,7 @@ zwergenstadt.com##+js(aeld, load, onload)
 ||qblllqzqezzkr.top^
 ||qblllqzqezzwj.top^
 ||qbnpxulgsfftrys.xyz^
+||qbnugmocftqfl.store^
 ||qbnvdctsmxqhr.website^
 ||qbop.com^$third-party
 ||qbox.me/vds.js
@@ -108143,6 +108455,7 @@ zwergenstadt.com##+js(aeld, load, onload)
 ||qebpwkxjz.com^
 ||qecapwnpthdzf.site^
 ||qedlai.restplatzboerse.com^
+||qefbqdjiahma.com^
 ||qefflytwwfe.com^
 ||qeidaxidcfj.xyz^
 ||qejfjnckgfury.space^
@@ -108171,6 +108484,7 @@ zwergenstadt.com##+js(aeld, load, onload)
 ||qevmhghuyoqva.store^
 ||qevseeymcpxby.click^
 ||qewwklewvkjv.top^
+||qewwklewvkoj.top^
 ||qewwklewvvmz.top^
 ||qewylqmelbbbj.top^
 ||qewylqmelbbqr.top^
@@ -108365,6 +108679,7 @@ zwergenstadt.com##+js(aeld, load, onload)
 ||qlnrnmze.com^
 ||qloevv.wikicasa.it^
 ||qlp.egghead.link^
+||qlpwodpqwzqcc.website^
 ||qlqvej.bahia-principe.com^
 ||qlsafdvwwmlw.com^
 ||qlsaqtqd.tattoo^
@@ -108987,6 +109302,7 @@ zwergenstadt.com##+js(aeld, load, onload)
 ||qzetnversitym.com^
 ||qzfcqddxkdliy.top^
 ||qzfxcf.coastal.com^
+||qzjcjpugwmdda.site^
 ||qzkacxjzegehl.space^
 ||qzkxwimtcygdx.store^
 ||qzl8.destinia.fi^
@@ -109489,6 +109805,7 @@ zwergenstadt.com##+js(aeld, load, onload)
 ||rbweljjbvvwvw.top^
 ||rbxtrk.com^$popup
 ||rbxvrauhtmh.xyz^
+||rbycczculjquv.site^
 ||rbzqarqzoveok.top^
 ||rbzqarqzoveqy.top^
 ||rbzqarqzovqoa.top^
@@ -109582,6 +109899,7 @@ zwergenstadt.com##+js(aeld, load, onload)
 ||rdvxxx.crushj.com^
 ||rdwmct.com^
 ||rdylehyanplts.com^
+||rdzjxlizigryv.online^
 ||rdzretjctqkcn.site^
 ||re-volver.net/visitor/
 ||re.stjude.org^
@@ -109956,6 +110274,7 @@ zwergenstadt.com##+js(aeld, load, onload)
 ||reelnk.com^
 ||reenakun.com^
 ||reeokx.reima.com^
+||reephethedu.com^
 ||reepsotograg.net^
 ||reeqqkeamaraw.top^
 ||reeqqkeamarmj.top^
@@ -110085,6 +110404,7 @@ zwergenstadt.com##+js(aeld, load, onload)
 ||regddays.top^
 ||regentsuproots.life^
 ||regesfistula.qpon^
+||regestmolted.com^
 ||regexmail.com^
 ||regiltxii.com^
 ||regimepavage.shop^
@@ -110106,6 +110426,7 @@ zwergenstadt.com##+js(aeld, load, onload)
 ||reglowslegible.click^
 ||reglowsthwart.life^
 ||regmdr.pref.ims.dialog-direct.com^
+||regrantkwela.rest^
 ||regrantship.top^
 ||regrowmillnia.qpon^
 ||regrscegger.rest^
@@ -110122,6 +110443,7 @@ zwergenstadt.com##+js(aeld, load, onload)
 ||rehaytewhimsic.cfd^
 ||rehearmirish.rest^
 ||rehearsejuniorloaded.com^
+||rehearslittle.world^
 ||rehemhault.qpon^
 ||rehidetramper.qpon^
 ||rehmann.actonservice.com^
@@ -110310,6 +110632,7 @@ zwergenstadt.com##+js(aeld, load, onload)
 ||rentracks.jp^$third-party
 ||renugtqvhsnjb.space^
 ||reobalkeozoa.top^
+||reobalkeyvok.top^
 ||reobalkeyvqy.top^
 ||reobalyboaoj.top^
 ||reocp.com^
@@ -110449,6 +110772,7 @@ zwergenstadt.com##+js(aeld, load, onload)
 ||res.programme-television.org^
 ||res.public.fr^
 ||res.rbl.ms^
+||res.sooplive.co.kr/script/player/service-maintenance.js
 ||resailscuriums.shop^
 ||resalag.com^
 ||resaysdefeat.shop^
@@ -110760,6 +111084,7 @@ zwergenstadt.com##+js(aeld, load, onload)
 ||revelestoile.digital^
 ||revenue.com^
 ||revenuebosom.com^
+||revenuecpmgate.com^
 ||revenuecpmnetwork.com^
 ||revenueflex.com^$third-party
 ||revenuehits.com^
@@ -111033,6 +111358,7 @@ zwergenstadt.com##+js(aeld, load, onload)
 ||ricxxtkkpnadaj.com^
 ||riddancemanufacturerextraction.com^
 ||riddancepants.com^
+||riddedbaile.com^
 ||riddedgarle.top^
 ||riddengratis.help^
 ||rideblackbird.com^
@@ -111179,6 +111505,7 @@ zwergenstadt.com##+js(aeld, load, onload)
 ||riverhit.com^$popup
 ||rivetedkibbeh.shop^
 ||rivetedrolpens.click^
+||rivierewhimsey.com^
 ||rivne.space^
 ||rivrai.com^$third-party
 ||rivrumtmzjmqu.site^
@@ -111270,6 +111597,7 @@ zwergenstadt.com##+js(aeld, load, onload)
 ||rlsnntgffqnli.online^
 ||rltd.io/tags/
 ||rltjqqrufde.com^
+||rludahcaewkfd.online^
 ||rluginhufbunhg.com^
 ||rlvjbsvvlauty.store^
 ||rmaprpljhtvue.space^
@@ -111627,6 +111955,7 @@ zwergenstadt.com##+js(aeld, load, onload)
 ||rousedaudacity.com^
 ||rouserolios.qpon^
 ||rouserswoodoo.cyou^
+||rousingstoa.rest^
 ||route.com/collect
 ||routeapp.io/route-analytics/
 ||routeit.one^
@@ -111755,6 +112084,7 @@ zwergenstadt.com##+js(aeld, load, onload)
 ||rrmlejqaqkvq.top^
 ||rrmrfddbwgb.com^
 ||rrobbybmkwbwy.top^
+||rrobbybmkwbzk.top^
 ||rrobbybmkwjww.top^
 ||rroxrojufbmoe.com^
 ||rrqwarwrewala.top^
@@ -111796,6 +112126,7 @@ zwergenstadt.com##+js(aeld, load, onload)
 ||rsotku.mitsui-shopping-park.com^
 ||rsppartners.com^$popup
 ||rspro.xyz/wp-content/uploads/*/redotpay.webp
+||rsqiodtrmtavz.space^
 ||rsqlcmynzgikwe.com^
 ||rsqlswceqf.com^
 ||rsqtssvyjuzlh.website^
@@ -111982,6 +112313,7 @@ zwergenstadt.com##+js(aeld, load, onload)
 ||ruincrayfish.com^
 ||ruinjan.com^
 ||ruinpiddled.qpon^
+||rujllgvjdedrf.site^
 ||rujpqipniloqi.love^
 ||rukanw.com^
 ||rukensjh.com^
@@ -112001,6 +112333,7 @@ zwergenstadt.com##+js(aeld, load, onload)
 ||rullockmilles.cyou^
 ||ruloc.com^
 ||rulroompaulooth.net^
+||rultiltougnengo.net^
 ||rum-ingress-coralogix.com^
 ||rum.api.intuit.com^
 ||rum.azion.com^
@@ -112932,6 +113265,7 @@ zwergenstadt.com##+js(aeld, load, onload)
 ||samekhsbensh.cyou^
 ||samelcoelder.click^
 ||sameljuri.shop^
+||samepresume.com^
 ||samesticks.com^
 ||samestretch.com^
 ||sametrics.finn.no^
@@ -113285,6 +113619,7 @@ zwergenstadt.com##+js(aeld, load, onload)
 ||saturadialed.cyou^
 ||saturatemadman.com^
 ||saturdaymarryspill.com^
+||satyrsretell.com^
 ||saubaheefah.net^
 ||sauboufougroay.net^
 ||sauchaihoo.net^
@@ -113462,6 +113797,7 @@ zwergenstadt.com##+js(aeld, load, onload)
 ||sc2.constantcontact.com^
 ||sc2.infor.com^
 ||sc2metrics.exacttarget.com^
+||scabrinagura.com^
 ||scadobe.vpay.co.kr^
 ||scakuvap.com^
 ||scalaephenate.life^
@@ -113513,6 +113849,7 @@ zwergenstadt.com##+js(aeld, load, onload)
 ||scaridcheths.cfd^
 ||scaridmasora.world^
 ||scarlet-clicks.info^$third-party
+||scarlinene.com^
 ||scarofnght.com^
 ||scarvesrepaid.com^
 ||scashwl.com^
@@ -113641,6 +113978,7 @@ zwergenstadt.com##+js(aeld, load, onload)
 ||scopateitaliane.it^$3p
 ||scopatevoltes.shop^
 ||scopineirate.rest^
+||scopinemina.cfd^
 ||scorchads.com^
 ||scorchobservedsow.com^
 ||scorchpompositydeadly.com^
@@ -114694,6 +115032,7 @@ zwergenstadt.com##+js(aeld, load, onload)
 ||send.preply.com^
 ||sendconter.shop^
 ||senderepizoa.world^
+||sendexcepting.com^
 ||sendgrid.employeelinkapp.com^
 ||sendingspire.com^
 ||senditfast.cloud^
@@ -114842,6 +115181,7 @@ zwergenstadt.com##+js(aeld, load, onload)
 ||sep02.hinagiku-life.jp^
 ||separatelysmackfibber.com^
 ||separatesort.com^
+||sephiraasperly.com^
 ||sephora-qa.branch.rocks^
 ||sephora-qa.branchstaging.com^
 ||sepiarypooris.com^
@@ -114881,6 +115221,7 @@ zwergenstadt.com##+js(aeld, load, onload)
 ||seriatenoddles.shop^
 ||seriatetawing.cfd^
 ||serie-vostfr.com^$third-party
+||seriespoetdom.rest^
 ||serinuswelling.com^
 ||seriolacollery.cyou^
 ||serious-partners.com^$third-party
@@ -115178,6 +115519,7 @@ zwergenstadt.com##+js(aeld, load, onload)
 ||sgfsdvc.com^
 ||sggfywmak.com^
 ||sggsbd.fonteyn.nl^
+||sghbvhktcomrn.online^
 ||sgmntfy.com^
 ||sgms.greatschools.org^
 ||sgnetwork.co^
@@ -115190,6 +115532,7 @@ zwergenstadt.com##+js(aeld, load, onload)
 ||sgtreport.com/wp-content/uploads/*Banner
 ||sgw-analytics.panasonic.com^
 ||sgwhvw.alura.com.br^
+||sgxlziqbahhqb.store^
 ||sgyxmnkvgcvys.online^
 ||sh.b.inhaabit.com^
 ||sh0w-me-h0w.net^
@@ -115395,6 +115738,7 @@ zwergenstadt.com##+js(aeld, load, onload)
 ||shasogna.com^
 ||shasterballup.click^
 ||shastrahoaxed.top^
+||shatchithepsupt.com^
 ||shatterconceal.com^
 ||shattertearcat.cfd^
 ||shauasoz.my^
@@ -115786,6 +116130,7 @@ zwergenstadt.com##+js(aeld, load, onload)
 ||sibulla.com^$third-party
 ||sibylpavanes.com^
 ||sibylstroper.qpon^
+||sibzstojwoqew.website^
 ||sicas.ikea.com^
 ||sicas.ikea.net^
 ||siccanttearer.cfd^
@@ -115841,6 +116186,7 @@ zwergenstadt.com##+js(aeld, load, onload)
 ||siglgodbyafek.com^
 ||sigloimarmots.cfd^
 ||siglostomolo.life^
+||siglumegotism.cyou^
 ||sign.use-neo.com^
 ||signaladsdirect.top^
 ||signalassure.com^
@@ -116136,6 +116482,7 @@ zwergenstadt.com##+js(aeld, load, onload)
 ||siumstonant.shop^
 ||siusmv.coraltravel.pl^
 ||siwashfetcher.top^
+||siwqatmug.com^
 ||six9e.canal.fr^
 ||sixabgubkkpjpvw.com^
 ||sixauthority.com^
@@ -116144,6 +116491,7 @@ zwergenstadt.com##+js(aeld, load, onload)
 ||sixft-apart.com^$popup
 ||sixscissors.com^
 ||sixsigmatraffic.com^$third-party
+||sixtinesamiels.click^
 ||sizcsi.eobuv.cz^
 ||sizefencing.com^
 ||sizierrowting.top^
@@ -116253,6 +116601,7 @@ zwergenstadt.com##+js(aeld, load, onload)
 ||skinshoopoe.click^
 ||skipdissatisfactionengland.com^
 ||skiphop.com/0F3091f3/init.js
+||skipmanbrasier.com^
 ||skippaccustom.org^
 ||skippelmisos.cfd^
 ||skipperx.net^
@@ -116603,6 +116952,7 @@ zwergenstadt.com##+js(aeld, load, onload)
 ||smbttxpafponx.store^
 ||smbzbm.skymilescruises.com^
 ||smcdxffhlkifc.site^
+||smcpvvmflcmlc.store^
 ||smct.co^$third-party
 ||sme.proximus.be^
 ||smeartoassessment.com^
@@ -119633,6 +119983,7 @@ zwergenstadt.com##+js(aeld, load, onload)
 ||smikqbwrgttx.xyz^
 ||smileesidesuk.com^
 ||smilersraying.help^
+||smiletavenine.cyou^
 ||smilewanted.com^
 ||smilewound.com^
 ||smileycentral.com^$third-party
@@ -120067,6 +120418,7 @@ zwergenstadt.com##+js(aeld, load, onload)
 ||soldierrewet.com^
 ||soleblinds.com^
 ||solelycouchee.top^
+||solelyskirtniche.com^
 ||solemnbible.com^
 ||solemndates.com^
 ||solemnlyreflectionextinct.com^
@@ -120441,6 +120793,7 @@ zwergenstadt.com##+js(aeld, load, onload)
 ||sonar6.xy.fbcdn.net.iberostar.com^
 ||soncyfirearm.com^
 ||soneticscorp.actonservice.com^
+||songfulamimia.life^
 ||songhailambs.digital^
 ||songishneater.cyou^
 ||songsterritory.com^
@@ -120498,6 +120851,7 @@ zwergenstadt.com##+js(aeld, load, onload)
 ||sorgijeegrooz.net^
 ||soriteforging.shop^
 ||soritespary.com^
+||sororalcurrier.com^
 ||sorosehottie.com^
 ||sorrhs.nescafe.com.tr^
 ||sorrilycognacs.shop^
@@ -120509,6 +120863,7 @@ zwergenstadt.com##+js(aeld, load, onload)
 ||sorterswinch.top^
 ||sortexampleposition.com^
 ||sortext.com^$third-party
+||sorthurry.com^
 ||sortlist.cloud/log
 ||sortstructure.com^
 ||sorucall.com^
@@ -120777,6 +121132,7 @@ zwergenstadt.com##+js(aeld, load, onload)
 ||spersonalization.mrrooter.com^
 ||spersonalization.rainbowintl.com^
 ||spetebunts.digital^
+||spevybdnwkzzd.space^
 ||spewermureins.com^
 ||sphc.caring4cancer.com^
 ||sphdcjmdwvskoe.com^
@@ -120789,6 +121145,7 @@ zwergenstadt.com##+js(aeld, load, onload)
 ||sphostserver.com^$third-party
 ||spicatefayles.click^
 ||spice-sugar.net^
+||spiceoptimistic.com^
 ||spicesonwheels.com^
 ||spicevikings.com^
 ||spickbricole.top^
@@ -120798,6 +121155,7 @@ zwergenstadt.com##+js(aeld, load, onload)
 ||spicy-purpose.com^
 ||spicy-two.com^
 ||spicygirlshere.life^$popup
+||spicyram.com^
 ||spicyresource.pro^
 ||spider-mich.com^$third-party
 ||spierswyted.com^
@@ -121954,6 +122312,7 @@ zwergenstadt.com##+js(aeld, load, onload)
 ||stakrauxasto.com^
 ||stalerclothe.life^
 ||stalesummer.com^
+||staletraffic.com^
 ||stalkchoroti.qpon^
 ||stalkyisogamy.shop^
 ||stallionshootimmigrant.com^
@@ -122329,6 +122688,7 @@ zwergenstadt.com##+js(aeld, load, onload)
 ||statistics.tattermedia.com^
 ||statistics.tuv.com^
 ||statistics.wibiya.com^
+||statisticsaccent.com^
 ||statisticsplatform.com^
 ||statistiek.rijksoverheid.nl^
 ||statistik-gallup.net^$third-party
@@ -123304,6 +123664,7 @@ zwergenstadt.com##+js(aeld, load, onload)
 ||steepto.com^
 ||steepyfiumara.cfd^
 ||steepykokam.digital^
+||steerauchi.net^
 ||steerensout.net^
 ||steerensout.net^$document
 ||steerensout.net^$popup
@@ -123416,6 +123777,7 @@ zwergenstadt.com##+js(aeld, load, onload)
 ||stimtavy.net^
 ||stimulateartificial.com^
 ||stimulatingsneeze.com^
+||stinegurged.rest^
 ||stingerfound.com^
 ||stingmawing.top^
 ||stingsquirrel.com^
@@ -124534,6 +124896,7 @@ zwergenstadt.com##+js(aeld, load, onload)
 ||sweltydusty.cfd^
 ||swertialegpull.shop^
 ||swesomepop.com^
+||swetrix.com^$third-party
 ||swetrix.org^$third-party
 ||swgvmflsg.com^
 ||swhqcerqyqejk.website^
@@ -124677,6 +125040,7 @@ zwergenstadt.com##+js(aeld, load, onload)
 ||sxrtxyyu.com^
 ||sxvnavgobmhav.com^
 ||sxwxswg8z1xe.www.arnowebtv.com^
+||sxxeqrgxjpc.com^
 ||sy.ameba.jp^
 ||sy.amebame.com^
 ||sy.ameblo.jp^
@@ -124762,6 +125126,7 @@ zwergenstadt.com##+js(aeld, load, onload)
 ||syqhvv.vivense.com^
 ||syringeoniondeluge.com^
 ||syrtdiesis.help^
+||syrupplod.com^
 ||sys.hager.com^
 ||sysintige.life^
 ||sysmeasuring.net^
@@ -125879,6 +126244,7 @@ zwergenstadt.com##+js(aeld, load, onload)
 ||tarotaffirm.com^
 ||tarquincorcass.help^
 ||tarrockorphism.click^
+||tarrybocking.qpon^
 ||tartanecruels.shop^
 ||tartansbejape.world^
 ||tarteaucitron.io/log/
@@ -126038,7 +126404,9 @@ zwergenstadt.com##+js(aeld, load, onload)
 ||tcucadojvogr.com^
 ||tcudrocivr.com^
 ||tcvlrtqsfqkbo.store^
+||tcvntaojw.com^
 ||tcwgmjsjgtsrm.space^
+||tcymfdhdjugynt.com^
 ||tczulp.econea.cz^
 ||td.airdroid.com^
 ||td.doubleclick.net^
@@ -126274,6 +126642,7 @@ zwergenstadt.com##+js(aeld, load, onload)
 ||tel.telegraaf.nl^
 ||telamoncom.actonservice.com^
 ||tele2.actonservice.com^
+||teleariosos.shop^
 ||telechargementdirect.net^
 ||teledusdoeg.com^
 ||telegramconform.com^
@@ -126400,6 +126769,7 @@ zwergenstadt.com##+js(aeld, load, onload)
 ||tenuesjiggles.help^
 ||tenuisflowing.digital^
 ||tenuousmorulas.shop^
+||tenurehabille.shop^
 ||tenutospayout.digital^
 ||tenwauks.life^
 ||tenzondace.cyou^
@@ -126740,6 +127110,7 @@ zwergenstadt.com##+js(aeld, load, onload)
 ||theardent.group^$third-party
 ||theav.xyz/anyalytics
 ||thebaintwaite.click^
+||thebangalapee.com^
 ||thebasiccompanies.actonservice.com^
 ||thebdx.actonservice.com^
 ||thebestdates.net^
@@ -126941,6 +127312,7 @@ zwergenstadt.com##+js(aeld, load, onload)
 ||thionicoutwood.shop^
 ||thioninkalwar.top^
 ||thiphoatchu.net^
+||thipseedsy.net^
 ||thiraq.com^
 ||thirawogla.com^$popup
 ||third-growth.pro^
@@ -127013,6 +127385,7 @@ zwergenstadt.com##+js(aeld, load, onload)
 ||thramtermite.digital^
 ||thrashbomb.com^
 ||thrasobarite.click^
+||thravervaned.click^
 ||thrawnfriese.qpon^
 ||thrbnpdmqphofs.xyz^
 ||threadloom.com/ga/
@@ -127045,6 +127418,7 @@ zwergenstadt.com##+js(aeld, load, onload)
 ||thscore.fun/mn/
 ||thsnvv.hollywoodschaukel-paradies.de^
 ||thtk.temu.com^
+||thtucuficxrfb.online^
 ||thtuqtuxdohrs.com^
 ||thudroawhoa.net^
 ||thuflcggpyblvo.com^
@@ -127060,6 +127434,7 @@ zwergenstadt.com##+js(aeld, load, onload)
 ||thumhuwbtt.com^
 ||thummingnats.com^
 ||thump-night-stand.com^
+||thumpedgewgaw.click^
 ||thumperferrum.shop^
 ||thunderhead.com^
 ||thunderingtendency.com^
@@ -127723,6 +128098,7 @@ zwergenstadt.com##+js(aeld, load, onload)
 ||toapz.xyz^
 ||toarathaujooy.net^
 ||toashuthushu.com^
+||toasoudouh.net^
 ||toast.com/log
 ||toast.com/sendid?
 ||toasttutor.com^
@@ -127778,6 +128154,7 @@ zwergenstadt.com##+js(aeld, load, onload)
 ||toiletpaper.life^$document
 ||toiletpaper.life^$popup
 ||toiletuntress.rest^
+||toilsfogged.com^
 ||toilunfaithful.com^
 ||toireink.top^
 ||toisecindery.top^
@@ -131637,6 +132014,7 @@ zwergenstadt.com##+js(aeld, load, onload)
 ||tss.sport2000.fr^
 ||tst-link-ccontact.focuscura.com^
 ||tstats-13fkh44r.com^
+||tsureslipper.com^
 ||tsvbwrknebpie.website^
 ||tsvnqvqvvqvr.com^
 ||tswafl.lascana.nl^
@@ -131785,6 +132163,7 @@ zwergenstadt.com##+js(aeld, load, onload)
 ||tumri.net^
 ||tumultdishearten.com^
 ||tundrafolder.com^$popup
+||tundunkokia.qpon^
 ||tune.sckmediatv.com^
 ||tuneboumpired.qpon^
 ||tunefatigueclarify.com^
@@ -131857,6 +132236,7 @@ zwergenstadt.com##+js(aeld, load, onload)
 ||turnstileunavailablesite.com^$popup
 ||turnto.com/event
 ||turtlemobile.com.tw^$third-party
+||turtlesuasive.com^
 ||tururu.info^
 ||tuscanyticer.world^
 ||tusfiles.com/sw.js$script,1p
@@ -132055,6 +132435,7 @@ zwergenstadt.com##+js(aeld, load, onload)
 ||txzaazmdhtw.com^$popup
 ||tybfxw.puma.com^
 ||tyburnpenalty.com^
+||tychitejatni.click^
 ||tychon.bid^
 ||tychon.bid^$popup
 ||tyddynlucet.top^
@@ -132508,6 +132889,7 @@ zwergenstadt.com##+js(aeld, load, onload)
 ||ujdtnsgiagbxx.click^
 ||ujducdplaicwa.store^
 ||ujeaqbkubgfuz.store^
+||ujekrtaxqxy.com^
 ||ujiphathats.com^
 ||ujlwwo.lehner-versand.ch^
 ||ujq1.destinia.is^
@@ -132621,6 +133003,7 @@ zwergenstadt.com##+js(aeld, load, onload)
 ||ulwexxyucrdsm.online^
 ||ulwsfvkfwrjyw.xyz^
 ||ulwwdrpmwb.com^
+||ulziylkdhxcap.store^
 ||um.contentstudio.io^
 ||umami.aigenerations.net^
 ||umami.askrella.de^
@@ -132750,6 +133133,7 @@ zwergenstadt.com##+js(aeld, load, onload)
 ||uncramcappagh.life^
 ||uncrownarmenic.com^
 ||uncunyblari.com^
+||undandinterp.org^
 ||undaymidydle.com^
 ||underclick.ru^
 ||undercoverbluffybluffybus.com^
@@ -132785,6 +133169,7 @@ zwergenstadt.com##+js(aeld, load, onload)
 ||undonesties.top^
 ||undosedherbid.top^
 ||undosedtrendy.help^
+||undoubtedlyovercoat.com^
 ||undress.app/ad_banners/
 ||undurs.1md.org^
 ||unedukzewjhrfg.com^
@@ -132896,6 +133281,7 @@ zwergenstadt.com##+js(aeld, load, onload)
 ||unkirkrupitic.life^
 ||unknowncontrol.com^
 ||unknowncrate.com^
+||unknowndeliquencydeliquencypenthouse.com^
 ||unknownidea.com^
 ||unknownpermission.com^
 ||unl1zvy2zuyn.franchiseplus.nl^
@@ -132919,6 +133305,7 @@ zwergenstadt.com##+js(aeld, load, onload)
 ||unlocky.xyz^$document
 ||unluckydoubt.com^
 ||unluckyfix.pro^
+||unlustymawkin.click^
 ||unluxioer.com^
 ||unm.emol.com^
 ||unmantyker.com^
@@ -133011,6 +133398,7 @@ zwergenstadt.com##+js(aeld, load, onload)
 ||unsteadyneat.pro^
 ||unsteelbices.top^
 ||unsteelpon.top^
+||unsteelrimas.cyou^
 ||unstepsmichiel.cfd^
 ||unstoutcercus.top^
 ||unstywinsome.com^
@@ -133100,6 +133488,7 @@ zwergenstadt.com##+js(aeld, load, onload)
 ||unwritten-cash.com^
 ||unwritten-population.pro^
 ||unwrittenfront.com^
+||unyjmeoaltkrz.space^
 ||unylgxxmrsbb.com^
 ||unyzea.aboutyou.sk^
 ||uobfcgampbbm.com^
@@ -133293,6 +133682,7 @@ zwergenstadt.com##+js(aeld, load, onload)
 ||uqecqpnnzt.online^
 ||uqeukkgofxmr.com^
 ||uqhpej.wiberrentacar.com^
+||uqjtqvzdujsjh.online^
 ||uqkcroib.com^
 ||uqlfonqtvf.com^
 ||uqmgqhhhutssb.online^
@@ -133448,6 +133838,7 @@ zwergenstadt.com##+js(aeld, load, onload)
 ||use.fvr.to^
 ||use.lunos.app^
 ||useblackbox.io/telemetry
+||usedflora.com^
 ||useful-fear.pro^
 ||usefulcontentsites.com^
 ||usefulknife.pro^
@@ -133497,6 +133888,7 @@ zwergenstadt.com##+js(aeld, load, onload)
 ||usgyoxtyjwresvb.xyz^
 ||usgzei.vidaxl.ch^
 ||usheebainaut.com^$popup
+||usherfrightenwaiter.com^
 ||ushermassacrecranny.com^
 ||usingageghoaft.net^
 ||usingageghoaft.net^$popup
@@ -134123,6 +134515,7 @@ zwergenstadt.com##+js(aeld, load, onload)
 ||uzlifjcqt.com^
 ||uzozhnsurirse.space^
 ||uzpkre.connor.com.au^
+||uzpwejzqjtqdg.store^
 ||uzrating.com^$third-party
 ||uzsqzcfdmveji.space^
 ||uzvcffe-aw.vip^
@@ -134190,6 +134583,7 @@ zwergenstadt.com##+js(aeld, load, onload)
 ||vainfulkmole.com^
 ||vainjav11.fun^
 ||vaipagraire.net^
+||vairujouque.net^
 ||vaitotoo.net^
 ||vaitotoo.net^$popup
 ||vaitunoagoapsee.net^
@@ -134201,6 +134595,7 @@ zwergenstadt.com##+js(aeld, load, onload)
 ||vajwbkkmklmzj.top^
 ||vak345.com^
 ||valdes.net.anwalt.de^
+||valeenjoy.com^
 ||valemedia.net^
 ||valestumble.com^
 ||valetsangoise.top^
@@ -134289,6 +134684,7 @@ zwergenstadt.com##+js(aeld, load, onload)
 ||variti.net^$third-party
 ||varkelmbqlamq.top^
 ||varkelmbqlbrw.top^
+||varkelmbqlzez.top^
 ||varnishspag.help^
 ||varrsoalw.com^
 ||varshacundy.com^
@@ -134342,6 +134738,7 @@ zwergenstadt.com##+js(aeld, load, onload)
 ||vbaalbovaakkz.top^
 ||vbaalbovaakyq.top^
 ||vbanalytics.com^$third-party
+||vbcojhroxkoaf.online^
 ||vbdmzqnrwrfug.online^
 ||vbe.voyage-prive.be^
 ||vbeeeleyevmow.top^
@@ -134411,6 +134808,7 @@ zwergenstadt.com##+js(aeld, load, onload)
 ||vcs.kensington.my^
 ||vcsjbnzmgjs.com^
 ||vcsxfynmtgwwj.global^
+||vcsxmwpxo.com^
 ||vctcajeme.tech^
 ||vcuawllqynbvi.website^
 ||vcucirkupha.com^
@@ -134447,6 +134845,7 @@ zwergenstadt.com##+js(aeld, load, onload)
 ||vdrigb.8190.jp^
 ||vdrmlchilmoavt.com^
 ||vdrn.redplum.com^
+||vdrqofejdpmbm.online^
 ||vdrxia.farmacosmo.it^
 ||vdslkvblwwyrssi.com^
 ||vdslnp.highkey.com^
@@ -134548,6 +134947,7 @@ zwergenstadt.com##+js(aeld, load, onload)
 ||veningspond.org^
 ||veningspondingco.org^
 ||venkrana.com^
+||vennershackos.com^
 ||venomouslife.com^
 ||venomousvessel.com^
 ||ventinragman.shop^
@@ -135048,6 +135448,7 @@ zwergenstadt.com##+js(aeld, load, onload)
 ||vinegardaring.com^
 ||vinelethoner.com^
 ||vinertoxamin.top^
+||vinetcrozers.qpon^
 ||vingtunacroter.top^
 ||viniesttrotlet.help^
 ||vinit.cloud^
@@ -135064,6 +135465,7 @@ zwergenstadt.com##+js(aeld, load, onload)
 ||violationphysics.click^$document
 ||violationphysics.click^$popup
 ||violetsdentals.qpon^
+||violorgies.shop^
 ||vionito.com^
 ||vionito.com^$popup
 ||viously.com^*/mt?
@@ -135114,6 +135516,7 @@ zwergenstadt.com##+js(aeld, load, onload)
 ||virgoplato.com^
 ||virgul.com^$third-party
 ||viriliablately.qpon^
+||viriliadantist.rest^
 ||virirsamtebsirt.com^
 ||virool.com/widgets/
 ||virool.com^$third-party
@@ -135287,6 +135690,7 @@ zwergenstadt.com##+js(aeld, load, onload)
 ||vjjgpt.diamond.jp^
 ||vjlakwgjnjqq.top^
 ||vjlakwgjnobz.top^
+||vjlklyblqmvqj.top^
 ||vjlocpypzmhzr.website^
 ||vjlyljbylmeel.top^
 ||vjlyljbylmemj.top^
@@ -135364,6 +135768,7 @@ zwergenstadt.com##+js(aeld, load, onload)
 ||vliaflkwqwpg.com^
 ||vlitag.com^
 ||vlivqjkfpdjce.space^
+||vlknaapixtq.com^
 ||vllsuv.skatedeluxe.com^
 ||vlnk.me^
 ||vloahkelmykyd.top^
@@ -135386,6 +135791,7 @@ zwergenstadt.com##+js(aeld, load, onload)
 ||vm8lm1vp.xyz^
 ||vmauw.space^
 ||vmawhaylmkxpv.vip^
+||vmdvbyphnrtegyj.com^
 ||vmecbdkpvugpj.website^
 ||vmgihu.gelatopique.com^
 ||vmgjt.click^$document
@@ -135409,6 +135815,7 @@ zwergenstadt.com##+js(aeld, load, onload)
 ||vmmpxl.com^$third-party
 ||vmnbuqmuru.com^
 ||vmntnkbmcdvyy.space^
+||vmowcfslouve.com^
 ||vmring.cc^
 ||vmsspl.tenamall.co.kr^
 ||vmsxzx.buienradar.nl^
@@ -135435,6 +135842,7 @@ zwergenstadt.com##+js(aeld, load, onload)
 ||vngglbbjyomgz.top^
 ||vnglypkdun.com^
 ||vnhmdeyzvmgho.love^
+||vnhybwql.com^
 ||vnjbwlkwvvomy.top^
 ||vnjbwlkwvvozj.top^
 ||vnl1.voyage-prive.nl^
@@ -135962,6 +136370,7 @@ zwergenstadt.com##+js(aeld, load, onload)
 ||vyqwljwberlow.top^
 ||vyqwljwberval.top^
 ||vyrlajoxfyljj.online^
+||vyrxvnfrmxccaxa.com^
 ||vytjbahlkcmwn.space^
 ||vyuaolnqfgoas.store^
 ||vyudlnwcwwkdl.space^
@@ -135999,6 +136408,7 @@ zwergenstadt.com##+js(aeld, load, onload)
 ||vzuwjlpmx.com^
 ||vzuzrrywyxrdl.online^
 ||vzwskvcarieny.website^
+||vzydopxwdqnqt.space^
 ||vzynem.lamporochljus.se^
 ||vzzcxrfujjtjg.tech^
 ||w-api.baomoi.com^$image
@@ -136144,6 +136554,7 @@ zwergenstadt.com##+js(aeld, load, onload)
 ||waitrose.com/gDaVC7/
 ||waiverstupuna.world^
 ||waivesricer.com^
+||waivinggilim.com^
 ||wakajapers.shop^
 ||wakedsowder.rest^
 ||wakefulforbode.com^
@@ -136452,6 +136863,7 @@ zwergenstadt.com##+js(aeld, load, onload)
 ||wbkokfwzpfuai.life^
 ||wbkval.ecco.com^
 ||wbllomblyony.top^
+||wbllomblyoqn.top^
 ||wbllomblyyjk.top^
 ||wblophmixywtfuc.com^
 ||wblrrwegleepo.website^
@@ -136557,6 +136969,7 @@ zwergenstadt.com##+js(aeld, load, onload)
 ||wealthextend.com^
 ||wealthfront.com/event
 ||wealthfront.com/track_next?p=
+||wealthstage.cyou^
 ||wealthytrouble.pro^
 ||weanerssouls.com^
 ||weansybow.world^
@@ -137384,6 +137797,7 @@ zwergenstadt.com##+js(aeld, load, onload)
 ||wheyeydiglyph.top^
 ||wheyishranks.click^
 ||whgcbgdsrqixx.rocks^
+||whiboujaix.net^
 ||which-impact.pro^
 ||whichcandiedhandgrip.com^
 ||whickootchoatiz.net^
@@ -137476,6 +137890,7 @@ zwergenstadt.com##+js(aeld, load, onload)
 ||whookrabon.com^
 ||whookroo.com^
 ||whookroo.com^$popup
+||whooltaulsairso.com^
 ||whoomsogleloo.net^
 ||whoopblew.com^
 ||whoopeddeys.shop^
@@ -137526,6 +137941,7 @@ zwergenstadt.com##+js(aeld, load, onload)
 ||why3.inseec.education^
 ||whycraszin.com^
 ||whydujap.com^
+||whyforlevels.click^
 ||whygiglachy.com^
 ||whymaze.com^
 ||whynessspriggy.cyou^
@@ -138007,6 +138423,7 @@ zwergenstadt.com##+js(aeld, load, onload)
 ||wmxuba.aldoshoes.com^
 ||wmyenypqxnplf.website^
 ||wmzlbovlwrrok.top^
+||wmzlbovlwrvmr.top^
 ||wmzlbovlwrvoz.top^
 ||wn.com/count.js
 ||wnd2.destinia.cat^
@@ -138153,6 +138570,7 @@ zwergenstadt.com##+js(aeld, load, onload)
 ||wordsdelivery.com^
 ||wordtradeflank.com^
 ||woreflite.shop^
+||woriusly.com^
 ||work.3dmgame.com/js/statistics.js
 ||work.construction.com^
 ||workback.net^
@@ -138434,6 +138852,7 @@ zwergenstadt.com##+js(aeld, load, onload)
 ||wsshehasnomoney.com^
 ||wsssaunhzztxj.store^
 ||wsstats.coches.net^
+||wssxudxjuemps.com^
 ||wstats.ageverif.com^
 ||wstats.e-wok.tv^
 ||wstats.gameblog.fr^
@@ -138548,6 +138967,7 @@ zwergenstadt.com##+js(aeld, load, onload)
 ||wvhba6470p.com^
 ||wvhuwiuvvgibn.space^
 ||wvifcddsifhbd.store^
+||wvjzqrwhbvepc.space^
 ||wvkgyqwvwybnz.top^
 ||wvkgyqwvwygjg.top^
 ||wvlirb.lexoffice.de^
@@ -138598,6 +139018,7 @@ zwergenstadt.com##+js(aeld, load, onload)
 ||wwarvlezklaj.top^
 ||wwarvlezkmaz.top^
 ||wwarvlezkmwm.top^
+||wwarvlezkqwr.top^
 ||wwbdayuvbvrsr.rocks^
 ||wwbdijjxe.com^
 ||wwbsll.nissen.co.jp^
@@ -139383,8 +139804,10 @@ zwergenstadt.com##+js(aeld, load, onload)
 ||wxqbopca-i.global^
 ||wxquhlykurxpd.store^
 ||wxrqigjwsfngx.site^
+||wxurshzniivhg.store^
 ||wxwsmt.matsmart.fi^
 ||wxwtvlov.com^
+||wxyzjutyofbjm.space^
 ||wy914.com^
 ||wyajjyxptbb.com^
 ||wyaoormajveqk.top^
@@ -139612,6 +140035,7 @@ zwergenstadt.com##+js(aeld, load, onload)
 ||xcpovxqpqw.com^
 ||xcrghf.xyz^
 ||xctoquhnalqgn.vip^
+||xctrlkvtbdwii.website^
 ||xcuffrzha.com^
 ||xcwsseexxpbfx.website^
 ||xcxdianxpglh.com^
@@ -139760,6 +140184,7 @@ zwergenstadt.com##+js(aeld, load, onload)
 ||xiaohongshu.com/api/v2/collect
 ||xiaomi.com/js/mstr.js?
 ||xibspj.komehyo.jp^
+||xieaoxvbgxppytx.com^
 ||xifyokyspc.com^
 ||xijafgfl.com^
 ||xijgedjgg5f55.com^$popup
@@ -139823,6 +140248,7 @@ zwergenstadt.com##+js(aeld, load, onload)
 ||xkacs5av.xyz^
 ||xkarma.net^$popup
 ||xkddvf.gigantti.fi^
+||xkdfufvqiz.com^
 ||xkfvceil.com^
 ||xkgtxj.edomator.pl^
 ||xkidkt.edenbrothers.com^
@@ -139857,6 +140283,7 @@ zwergenstadt.com##+js(aeld, load, onload)
 ||xlivrdr.com^
 ||xlivrdr.com^$document
 ||xlivrdr.com^$popup
+||xljgbrlqylwwt.store^
 ||xljqqe.hsn.com^
 ||xllijrhulk.com^
 ||xlovecam.com^$third-party
@@ -139992,6 +140419,7 @@ zwergenstadt.com##+js(aeld, load, onload)
 ||xqeoitqw.site^
 ||xqfpgwarzkecj.website^
 ||xqkbwyyptldky.store^
+||xqkqqtzljvwaj.space^
 ||xqldkphq.com^
 ||xqnoxoqtbfwjp.site^
 ||xqonftmehe.com^
@@ -140138,6 +140566,7 @@ zwergenstadt.com##+js(aeld, load, onload)
 ||xvyxgy.stz.com.br^
 ||xvzgfyqucqrbw.space^
 ||xvzyyzix.com^
+||xwbigjdyqa.com^
 ||xwcljkikukbd.com^
 ||xwcoazwttbnmd.store^
 ||xwdlzsfcnzkpk.site^
@@ -140477,6 +140906,7 @@ zwergenstadt.com##+js(aeld, load, onload)
 ||yeastedbushpig.top^
 ||yeastexisting.com^
 ||yeastfeukufund.org^
+||yeastfixator.com^
 ||yeasturquet.shop^
 ||yebvpc.gardengoodsdirect.com^
 ||yedcarbon.rest^
@@ -140667,6 +141097,7 @@ zwergenstadt.com##+js(aeld, load, onload)
 ||yizghfwqrbhgy.space^
 ||yizlda.crocs.co.uk^
 ||yjdgsslummnji.space^
+||yjdzqszsqttiy.store^
 ||yjepztzvncndf.tech^
 ||yjgkufrdloaih.space^
 ||yjgrhzvtvkqen.tech^
@@ -140741,6 +141172,7 @@ zwergenstadt.com##+js(aeld, load, onload)
 ||ylx-3.com^
 ||ylx-4.com^
 ||ylxfcvbuupt.com^
+||ylzevsnrrwpmm.online^
 ||ym8p.net^
 ||ymajpuqag.com^
 ||ymandardaircl.com^
@@ -140819,6 +141251,7 @@ zwergenstadt.com##+js(aeld, load, onload)
 ||yolkmopey.help^
 ||yollamedia.com^
 ||yolo.philipbjorge.com^
+||yomafkfksi.com^
 ||yomeno.xyz^
 ||yomovies.fitness^
 ||yomxt.icu^
@@ -141120,6 +141553,7 @@ zwergenstadt.com##+js(aeld, load, onload)
 ||yulankartos.life^
 ||yumduqtthxgfo.website^
 ||yumenetworks.com^
+||yumhusk.com^
 ||yummiergangue.shop^
 ||yummiesavalent.life^
 ||yummy-month.com^
@@ -141175,6 +141609,7 @@ zwergenstadt.com##+js(aeld, load, onload)
 ||ywexnakh.com^
 ||ywhikg.surplex.com^
 ||ywkiyt.candere.com^
+||ywlywcynr.com^
 ||ywojvu.kujten.com^
 ||ywrcqa.11alive.com^
 ||ywrcqa.12news.com^
@@ -141210,6 +141645,7 @@ zwergenstadt.com##+js(aeld, load, onload)
 ||ywrcqa.wwltv.com^
 ||ywrcqa.wzzm13.com^
 ||ywronwasthetron.com^
+||ywtwvfuwgxnpe.space^
 ||ywusfyjhnpflr.top^
 ||ywwvjnvcsnhjhn.com^
 ||ywxi.net^$third-party,domain=~trustedsite.com
@@ -141446,6 +141882,7 @@ zwergenstadt.com##+js(aeld, load, onload)
 ||zealousfinance.pro^
 ||zealousinquiriesgovernment.com^
 ||zealsalts.com^
+||zeapraccv.com^
 ||zeawppuaetasp.fun^
 ||zebeaa.click^
 ||zebeaa.click^$popup
@@ -141688,6 +142125,7 @@ zwergenstadt.com##+js(aeld, load, onload)
 ||zirve100.com^$third-party
 ||zishegoshordip.net^
 ||zisr3w3i2csfa76m.edge41.testandtarget.omniture.com^
+||zitterchuvash.com^
 ||zitzithquaff.top^
 ||ziuggw.archon.pl^
 ||zivtux.com^
@@ -141721,6 +142159,7 @@ zwergenstadt.com##+js(aeld, load, onload)
 ||zkcdn.net/ados.js
 ||zkcvb.com^
 ||zkdrywjcdepjx.online^
+||zkdtpucowdlat.website^
 ||zkebwy.copenhagenstudios.com^
 ||zkieqfgsiigts.store^
 ||zkkkvb.welovebags.de^
@@ -141765,6 +142204,7 @@ zwergenstadt.com##+js(aeld, load, onload)
 ||zlvxiw.medicarelife.com^
 ||zlx.com.br^
 ||zlx.com.br^$third-party
+||zlxwsxcnkyeij.site^
 ||zlzwhrhkavos.xyz^
 ||zm232.com^
 ||zmctrack.net^$third-party
@@ -141948,6 +142388,7 @@ zwergenstadt.com##+js(aeld, load, onload)
 ||zqjklzrqmayb.top^
 ||zqjklzrqmqww.top^
 ||zqjklzrqmvwq.top^
+||zqjljeyjwvowq.top^
 ||zqjljeyjwvoye.top^
 ||zqkdzl.invia.sk^
 ||zqmbgnfubebvi.site^
@@ -141967,9 +142408,11 @@ zwergenstadt.com##+js(aeld, load, onload)
 ||zqvvzrlevbzvb.top^
 ||zqwe.ru^
 ||zqwofo.liverpool.com.mx^
+||zqyzgicrcwohx.space^
 ||zrakos.com^
 ||zrbbbj.tf.com.br^
 ||zrffdxfrwz.com^
+||zribfawrbvrfl.website^
 ||zrilwyoc.com^
 ||zrjllb.zeb.be^
 ||zrknjk.countrystorecatalog.com^
@@ -142097,6 +142540,7 @@ zwergenstadt.com##+js(aeld, load, onload)
 ||zvrokbqvqvqvb.top^
 ||zvrokbqvqvvbw.top^
 ||zvsglctjjmstn.space^
+||zvthanutunpww.site^
 ||zvvajeommbajz.top^
 ||zvvajeommbjjq.top^
 ||zvvajeommbjme.top^
@@ -142126,12 +142570,15 @@ zwergenstadt.com##+js(aeld, load, onload)
 ||zwxwpnkdaswfn.site^
 ||zwyjpyocwv.com^
 ||zx-adnet.com^$third-party
+||zxbehrtmvceoi.site^
 ||zxbumj.edreams.it^
 ||zxcdn.com^
 ||zxcpgvqpxdkhb.online^
 ||zxenwgfnhknxs.click^
 ||zxfqtqmtlldld.world^
 ||zxgjrlpmaqyek.website^
+||zxhzhiaogwjknf.com^
+||zxinihfgkdpfb.space^
 ||zxqnbp.heute-wohnen.de^
 ||zxqrdm.vinomofo.com^
 ||zxrnfc.drinco.jp^
@@ -142154,6 +142601,7 @@ zwergenstadt.com##+js(aeld, load, onload)
 ||zygoseshammier.click^
 ||zygotespank.rest^
 ||zygoticannette.digital^
+||zygtaxiognrri.website^
 ||zyiis.net^
 ||zykkjyaokkjyb.top^
 ||zykkjyaokklew.top^
@@ -142182,6 +142630,7 @@ zwergenstadt.com##+js(aeld, load, onload)
 ||zyvbvqvjjkvqz.top^
 ||zyvlvbtnyixyx.online^
 ||zyxbltkkgkmon.site^
+||zyynxbfkwms.com^
 ||zyyt-tevos.click^
 ||zyzqkbkeyqajw.top^
 ||zyzqkbkeyqrre.top^
